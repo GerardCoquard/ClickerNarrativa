@@ -48,7 +48,7 @@ public class ControllerNPC : MonoBehaviour
     }
     public DialogueNode GetDialogueNode()
     {
-        //return GameManager.instance.testNode;
+        return GameManager.instance.testNode;
 
         if(npc.HasAllUpgrades()) GetDialogueName("O",npc.GetOffers());
         else return GetDialogueName("D",npc.GetUpgrades());
@@ -62,7 +62,7 @@ public class ControllerNPC : MonoBehaviour
         if(indexes[0] == indexes[1]) fileName = _type + indexes[0];
         else fileName = _type + indexes[0] + indexes[1];
 
-        return (DialogueNode) Resources.Load("NPCs/Mundo_"+(GameManager.instance.currentPhase+1).ToString()+"/"+npc.data.name+"/"+fileName);
+        return (DialogueNode) Resources.Load("NPCs/Mundo_"+(GameManager.instance.currentPhase+1).ToString()+"/"+npc.data.name+"/"+fileName+".0");
     }
 }
 [System.Serializable]
