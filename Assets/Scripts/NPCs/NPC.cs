@@ -44,8 +44,7 @@ public class NPC : MonoBehaviour
     }
     public float GetCost(int upgrade)
     {
-        //Formula rara
-        float cost = data._baseCost*(levels[upgrade]+1)*Utilities.GetLevelConstant();
+        float cost = data._baseCost*Mathf.Pow(Utilities.GetLevelConstant(),levels[upgrade]);
         if(offers[upgrade] > 0)
         {
             float modifier = offers[upgrade] == 2 ? Utilities.GetOfferConstant()*Utilities.GetOfferConstant() : Utilities.GetOfferConstant();

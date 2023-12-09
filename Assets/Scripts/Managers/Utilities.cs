@@ -4,8 +4,8 @@ using UnityEngine;
 
 public static class Utilities
 {
-    static float offerConstant = 0.5f;
-    static float levelConstant = 3;
+    static float offerConstant = 0.25f;
+    static float levelConstant = 1.13f;
     public static string ToCurrency(float amount)
     {
         return ToCurrencyType(ToNumber(amount));
