@@ -4,7 +4,7 @@ using UnityEngine;
 
 public static class Utilities
 {
-    static float offerConstant = 0.25f;
+    static float offerConstant = 0.80f;
     static float levelConstant = 1.13f;
     public static string ToCurrency(float amount)
     {
