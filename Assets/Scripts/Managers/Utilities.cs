@@ -13,8 +13,10 @@ public static class Utilities
     public static string ToNumber(float amount)
     {
         string text = "";
-        if (amount > 100000) text = (amount / 10000).ToString("F1") + "mM";
-        else if (amount > 10000) text = (amount / 10000).ToString("F1") + "M";
+        if (amount > 1000000000000000) text = (amount / 1000000000000000).ToString("F1") + "mB";
+        else if (amount > 1000000000000) text = (amount / 1000000000000).ToString("F1") + "B";
+        else if (amount > 1000000000) text = (amount / 1000000000).ToString("F1") + "mM";
+        else if (amount > 1000000) text = (amount / 1000000).ToString("F1") + "M";
         else if (amount > 1000) text = (amount / 1000).ToString("F1") + "m";
         else text = amount.ToString();
         return text;
