@@ -30,6 +30,11 @@ public  class GameManager : MonoBehaviour
             cheats = !cheats;
         }
 
+        if(Input.GetKeyDown(KeyCode.Alpha0) && !cheats)
+        {
+            currency = 0;
+        }
+
         if(cheats) currency = currencyLimit;
     }
     public void AddCurrency(float newCurrency)
