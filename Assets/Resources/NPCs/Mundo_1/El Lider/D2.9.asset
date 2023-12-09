@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: D2.9
+  m_EditorClassIdentifier: 
+  answers:
+  - text: Lo que sea, no quiero tener que enfrentarme a nadie, pagare
+    nextNode: {fileID: 11400000, guid: cb9044bc1872de040b7a15328152e68d, type: 2}
+    x: 0
+    y: 0
+  - text: "Los envidios no podr\xE1n pararme, nuestra alianza es fruct\xEDfera  "
+    nextNode: {fileID: 11400000, guid: cb9044bc1872de040b7a15328152e68d, type: 2}
+    x: 0
+    y: 0
