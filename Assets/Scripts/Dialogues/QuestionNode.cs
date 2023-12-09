@@ -7,4 +7,7 @@ using UnityEngine;
 public class QuestionNode : ScriptableObject
 {
     public List<DialogueAnswer> answers = new List<DialogueAnswer>();
+    public bool finalQuestion;
+    public DialogueNode xNode;
+    public DialogueNode yNode;
 }

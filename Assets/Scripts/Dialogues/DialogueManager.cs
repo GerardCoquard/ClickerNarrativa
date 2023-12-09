@@ -9,20 +9,22 @@ public class DialogueManager : MonoBehaviour
 {
     public static DialogueManager instance;
     public List<GameObject> answers = new List<GameObject>();
-    int currentAnswer;
-    bool answered;
-    bool answering;
     public TextMeshProUGUI speakerName;
     public Image speakerIcon;
     public NPC currentNPC;
     public GameObject dialogueRender;
     public TextMeshProUGUI dialogueText;
-    private DialogueNode currentNode;
-    private QuestionNode currentQuestion;
-    [SerializeField] float defaultTypeSpeed;
-    [SerializeField] float fastTypeSpeed;
-    private float currentTypeSpeed;
-    private DIALOGUE_STATE currentState = DIALOGUE_STATE.DEFAULT;
+    public float defaultTypeSpeed;
+    public float fastTypeSpeed;
+    public Sprite playerIcon;
+    public Sprite narradorIcon;
+    DialogueNode currentNode;
+    QuestionNode currentQuestion;
+    float currentTypeSpeed;
+    DIALOGUE_STATE currentState = DIALOGUE_STATE.DEFAULT;
+    int currentAnswer;
+    bool answered;
+    bool answering;
     int x;
     int y;
     private void Awake()
@@ -78,8 +80,7 @@ public class DialogueManager : MonoBehaviour
         dialogueRender.SetActive(true);
         Clear();
         currentNode = startNode;
-        speakerName.text = currentNPC.data._name;
-        speakerIcon.sprite = currentNPC.data._icon;
+        SetSpeaker();
         x = 0;
         y = 0;
         currentNode.text = SetText(currentNode.text);
@@ -112,6 +113,9 @@ public class DialogueManager : MonoBehaviour
 
     IEnumerator Question()
     {
+        speakerName.text = "Jugador";
+        speakerIcon.sprite = playerIcon;
+
         List<string> _ans = new List<string>();
         foreach (DialogueAnswer item in currentQuestion.answers)
         {
@@ -130,9 +134,26 @@ public class DialogueManager : MonoBehaviour
         if(finalAnswer.y) y++;
         answering = false;
         SetAnswers(new List<string>());
-        if(finalAnswer.nextNode != null)
+        if(currentQuestion.finalQuestion)
+        {
+            if(x>y)
+            {
+                currentNode = currentQuestion.xNode;
+                StartCoroutine(Type());
+            }
+            else
+            {
+                currentNode = currentQuestion.yNode;
+                SetSpeaker();
+                currentNode.text = SetText(currentNode.text);
+                StartCoroutine(Type());
+            }
+        }
+        else if(finalAnswer.nextNode != null)
         {
             currentNode = finalAnswer.nextNode;
+            SetSpeaker();
+            currentNode.text = SetText(currentNode.text);
             StartCoroutine(Type());
         }
         else EndDialogue();
@@ -144,6 +165,7 @@ public class DialogueManager : MonoBehaviour
         if (currentNode.nextNode != null)
         {
             currentNode = currentNode.nextNode;
+            SetSpeaker();
             currentNode.text = SetText(currentNode.text);
             StartCoroutine(Type());
             return;
@@ -199,10 +221,28 @@ public class DialogueManager : MonoBehaviour
             default:
             break;
         }
-        string newText = oldText.Replace(currency,Utilities.ToCurrencyType(""));
-        newText = newText.Replace(currency+"?",Utilities.ToCurrencyType(""));
-        newText = newText.Replace(currency+".",Utilities.ToCurrencyType(""));
-        return newText.Replace(currency+",",Utilities.ToCurrencyType(""));
+        return  oldText.Replace(currency,Utilities.ToCurrencyType(""));
+        //newText = newText.Replace(currency+"?",Utilities.ToCurrencyType(""));
+        //newText = newText.Replace(currency+".",Utilities.ToCurrencyType(""));
+        //return newText.Replace(currency+",",Utilities.ToCurrencyType(""));
+    }
+    void SetSpeaker()
+    {
+        if(currentNode.player)
+        {
+            speakerName.text = "Jugador";
+            speakerIcon.sprite = playerIcon;
+            return;
+        }
+        if(currentNode.narrador)
+        {
+            speakerName.text = "";
+            speakerIcon.sprite = narradorIcon;
+            return;
+        }
+
+        speakerName.text = currentNPC.data._name;
+        speakerIcon.sprite = currentNPC.data._icon;
     }
 }
 public enum DIALOGUE_STATE

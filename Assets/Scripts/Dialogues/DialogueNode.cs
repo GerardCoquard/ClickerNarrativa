@@ -10,4 +10,6 @@ public class DialogueNode : ScriptableObject
     public string text;
     public DialogueNode nextNode;
     public QuestionNode nextQuestion;
+    public bool player;
+    public bool narrador;
 }
