@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0759bb1a846923544ae8babc5139ab1c, type: 3}
   m_Name: Hermano
   m_EditorClassIdentifier: 
-  _baseCost: 300
+  _baseCost: 100
   _modifierValue: 2
   _name: Hermano
   _icon: {fileID: 21300000, guid: 8e21cb027fa192448a93be05ee116401, type: 3}

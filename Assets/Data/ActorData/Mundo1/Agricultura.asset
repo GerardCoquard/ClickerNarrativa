@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9316b6617bd2b449dfc384a61f73a4, type: 3}
   m_Name: Agricultura
   m_EditorClassIdentifier: 
-  mainBarAmount: 30
-  mainBarTime: 1
-  actorAmount: 1
-  autoBarTime: 2
+  mainBarAmount: 10
+  mainBarTime: 2.5
+  actorAmount: 0
+  autoBarTime: 3
   autoBarLimitTime: 0.2
   mainBarLimitTime: 0.2
   actorName: Agricultura
