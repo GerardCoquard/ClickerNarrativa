@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O02.3
   m_EditorClassIdentifier: 
-  text: "\xBFDe veras? Mis m\xE1s sinceras disculpas compa\xF1ero, a modo de compensaci\xF3n
-    te las volver\xE9 a forjar a un precio rebajado."
+  text: "De acuerdo, espero que esta vez duren m\xE1s..."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

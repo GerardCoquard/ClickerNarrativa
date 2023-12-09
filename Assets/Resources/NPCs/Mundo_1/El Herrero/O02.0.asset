@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "Buenas compa\xF1ero, \xBFqu\xE9 te trae de nuevo por aqu\xED?"
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 0}
+  nextQuestion: {fileID: 11400000, guid: 2bae71089ec21454fbd7e1c5f2fad085, type: 2}
