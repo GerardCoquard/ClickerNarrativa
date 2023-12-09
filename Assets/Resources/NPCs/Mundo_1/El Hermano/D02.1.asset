@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: D02.1
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "He conseguido mucho hierro, tal vez deber\xEDa complementarme para hacer
+      trabajos mas f\xE1ciles."
+    nextNode: {fileID: 11400000, guid: 3c33c6adfdd2fe4478486171a6259b7d, type: 2}
+    x: 1
+    y: 0
+  - text: "Lo se, el esfuerzo vali\xF3 la pena, pero ahora estoy centrado en ganar
+      grandes cantidades."
+    nextNode: {fileID: 11400000, guid: 3c33c6adfdd2fe4478486171a6259b7d, type: 2}
+    x: 0
+    y: 1
