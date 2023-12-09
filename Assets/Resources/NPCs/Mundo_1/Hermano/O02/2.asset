@@ -9,15 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  answers:
-  - text: "Me gustar\xEDa dominar el arte del cultivo, es el m\xE9todo mas r\xE1pido."
-    nextNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
-    x: 1
-    y: 0
-  - text: Quiero ser un minero experto, el esfuerzo es recompensado.
-    nextNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
-    x: 0
-    y: 1
+  text: "\xA1Los dioses me han unido con una Mujer! Con la hija de la familia Beles,
+    \xA1hermano que feliz soy!"
+  nextNode: {fileID: 11400000, guid: 78f5cb0dd85fb0e4a998b89bdfec336b, type: 2}
+  nextQuestion: {fileID: 0}

@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Buena decisi\xF3n, eso permitir\xE1 que cumplas tu objetivo."
+  text: "Hoy mismo partir\xE9 en busca del experto, seguro te ser\xE1 mucho m\xE1s
+    \xFAtil que yo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

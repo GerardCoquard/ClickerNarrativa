@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
-  nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  text: "\xA1Hermano! Tengo buenas noticias, gracias a el dinero que tenemos he comprado
+    una mina repleta de hierro."
+  nextNode: {fileID: 11400000, guid: 54bb33aa6f96ba54988d97ffcab1c588, type: 2}
+  nextQuestion: {fileID: 0}

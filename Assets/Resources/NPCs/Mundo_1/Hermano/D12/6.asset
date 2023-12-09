@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "Las Diuras est\xE1n bien, pero prefiero tu bienestar."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 501ccdbc727f0b84897a96eaf16a7c85, type: 2}
+  nextQuestion: {fileID: 11400000, guid: 4ba8aa4bb6592ad4a9aa94f64899273d, type: 2}
+  player: 0
+  narrador: 0

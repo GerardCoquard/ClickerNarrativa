@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Hermano... Me gusta que est\xE9s determinado."
-  nextNode: {fileID: 11400000, guid: 466387a1a30f9bb41bb898af27ebb011, type: 2}
+  text: "...La preocupaci\xF3n en los ojos de tu hermano se vuelve alarmante..."
+  nextNode: {fileID: 11400000, guid: 0a5e659abefa48a40bfdeb238de98380, type: 2}
   nextQuestion: {fileID: 0}
   player: 0
-  narrador: 0
+  narrador: 1

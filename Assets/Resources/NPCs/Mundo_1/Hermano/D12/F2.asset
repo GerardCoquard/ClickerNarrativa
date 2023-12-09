@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F2
   m_EditorClassIdentifier: 
-  text: Congrats mi pana, has desbloqueado {0}
+  text: Entiendo, no me parece bien pero lo entiendo, conozco a algunos nobles, te
+    los puedo presentar para que hagas mejores negocios.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Hoy mismo partir\xE9 en busca del experto, seguro te ser\xE1n mucho mas
-    \xFAtiles que yo."
+  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 0}
+  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  player: 1
+  narrador: 0

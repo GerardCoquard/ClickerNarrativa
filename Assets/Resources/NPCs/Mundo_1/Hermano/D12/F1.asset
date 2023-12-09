@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F1
   m_EditorClassIdentifier: 
-  text: Congrats mi pana, has desbloqueado {0}
+  text: "Si tan claro lo tienes, puedo ense\xF1arte algunos trucos de miner\xEDa,
+    para que encuentres m\xE1s hierro."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

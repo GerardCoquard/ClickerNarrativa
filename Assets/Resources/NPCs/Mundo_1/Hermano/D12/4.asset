@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "Pero \xBFest\xE1s descansando?"
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 06c16e7f2a0c1854cbfbbaa3aeb3bd76, type: 2}
+  nextQuestion: {fileID: 11400000, guid: 1290dfaf1e5b3aa4785de85494e7711d, type: 2}
   player: 0
   narrador: 0

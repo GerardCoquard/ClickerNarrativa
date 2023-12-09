@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "He encontrado a un maestro minero y a un agricultor experto, \xBFcon cual
-    te gustar\xEDa que hablara?"
-  nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: eb4a1aa12365a1f47928967a5e7b2c01, type: 2}
+  text: "No recuerdas jam\xE1s haber visto a tu hermano con una cara tan alegre."
+  nextNode: {fileID: 11400000, guid: e64ba9aeb8245d14a94c5ac2abb76142, type: 2}
+  nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 1

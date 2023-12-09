@@ -15,10 +15,13 @@ MonoBehaviour:
   answers:
   - text: Lo importante es que me puedo organizar para trabajar en el campo y la
       mina
-    nextNode: {fileID: 11400000, guid: c0f7b3d8cb003e742a4d600595aa743a, type: 2}
+    nextNode: {fileID: 11400000, guid: c04dca349ec842b4d86267c62b0edc3f, type: 2}
     x: 1
     y: 0
   - text: Descansare mientras viajo a otros pueblos para hacer negocios.
-    nextNode: {fileID: 11400000, guid: c0f7b3d8cb003e742a4d600595aa743a, type: 2}
+    nextNode: {fileID: 11400000, guid: c04dca349ec842b4d86267c62b0edc3f, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

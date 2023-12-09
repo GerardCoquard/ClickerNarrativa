@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   answers:
-  - text: "La mina es mi especialidad, usar\xE9 la mina para mi y mis esclavos."
-    nextNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
+  - text: "Me gustar\xEDa dominar el arte del cultivo, es el m\xE9todo m\xE1s r\xE1pido."
+    nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "\xA1Al fin una oportunidad de negocio! Vender\xE9 el acceso a mineros
-      para obtener beneficios."
-    nextNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
+  - text: Quiero ser un minero experto, el esfuerzo es recompensado.
+    nextNode: {fileID: 0}
     x: 0
     y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
+  yNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}

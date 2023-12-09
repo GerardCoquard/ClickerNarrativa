@@ -10,9 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.1
+  m_Name: 1
   m_EditorClassIdentifier: 
-  text: "\xA1Los dioses me han unido con una Mujer! Con la hija de la familia Beles,
-    \xA1hermano que feliz soy!"
-  nextNode: {fileID: 11400000, guid: 78f5cb0dd85fb0e4a998b89bdfec336b, type: 2}
-  nextQuestion: {fileID: 0}
+  text: "\xBFQuieres usarla como zona de explotaci\xF3n o hacer negocios con otros
+    mineros para que la usen?"
+  nextNode: {fileID: 0}
+  nextQuestion: {fileID: 11400000, guid: eb4a1aa12365a1f47928967a5e7b2c01, type: 2}
+  player: 0
+  narrador: 0

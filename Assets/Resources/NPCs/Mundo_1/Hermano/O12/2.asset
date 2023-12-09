@@ -10,18 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
-  m_Name: 7
+  m_Name: 2
   m_EditorClassIdentifier: 
   answers:
-  - text: "\xBFNo te das cuenta de que mi bienestar viene del trabajo?"
+  - text: "La mina es mi especialidad, usar\xE9 la mina para mi y mis esclavos."
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "Cuando acabe con los negocios conseguir\xE9 tanto dinero que alcanzar\xE9
-      el bienestar."
+  - text: "\xA1Al fin una oportunidad de negocio! Vender\xE9 el acceso a mineros
+      para obtener beneficios."
     nextNode: {fileID: 0}
     x: 0
     y: 1
   finalQuestion: 1
-  xNode: {fileID: 11400000, guid: 372161999ad5b2d4389ee2857c39eaef, type: 2}
-  yNode: {fileID: 11400000, guid: 11cd4cfc8d7e26e46b7663cb3a7a1dd7, type: 2}
+  xNode: {fileID: 11400000, guid: fdc39572982a06248beb87bb37f27869, type: 2}
+  yNode: {fileID: 11400000, guid: fdc39572982a06248beb87bb37f27869, type: 2}

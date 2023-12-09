@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.4
+  m_Name: 3
   m_EditorClassIdentifier: 
-  text: Veo que no se te quita el dinero de la cabeza, pero trato hecho, contactare
-    con ellos.
+  text: "Buena decisi\xF3n, eso permitir\xE1 que cumplas tu objetivo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0
