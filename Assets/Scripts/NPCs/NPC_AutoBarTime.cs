@@ -7,6 +7,6 @@ public class NPC_AutoBarTime : NPC
     public override void ApplyUpgrade(int upgrade)
     {
         Actor actor = ActorsManager.instance.GetActor(upgrade);
-        actor.SetAutoBarTime(actor.autoBarTime*data._modifierValue);
+        actor.SetAutoBarTime(actor.autoBarTime/data._modifierValue);
     }
 }

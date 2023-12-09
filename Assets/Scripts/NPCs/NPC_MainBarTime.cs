@@ -7,6 +7,6 @@ public class NPC_MainBarTime : NPC
     public override void ApplyUpgrade(int upgrade)
     {
         Actor actor = ActorsManager.instance.GetActor(upgrade);
-        actor.SetMainBarTime(actor.mainBarTime*data._modifierValue);
+        actor.SetMainBarTime(actor.mainBarTime/data._modifierValue);
     }
 }
