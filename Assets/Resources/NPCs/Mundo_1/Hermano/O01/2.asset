@@ -13,14 +13,12 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   answers:
-  - text: "Seguro que con m\xE1s hoces podremos segar m\xE1s hect\xE1reas."
-    nextNode: {fileID: 0}
+  - text: "La mina es mi especialidad, usar\xE9 la mina para mi y mis esclavos."
+    nextNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
     x: 1
     y: 0
-  - text: "La miner\xEDa va como nunca, creo que es hora de explotar mis fortalezas."
-    nextNode: {fileID: 0}
+  - text: "\xA1Al fin una oportunidad de negocio! Vender\xE9 el acceso a mineros
+      para obtener beneficios."
+    nextNode: {fileID: 11400000, guid: a51cb4bcdc4b1104392a56f66bd74851, type: 2}
     x: 0
     y: 1
-  finalQuestion: 1
-  xNode: {fileID: 11400000, guid: 2a551574871bfe34096804034e028dc1, type: 2}
-  yNode: {fileID: 11400000, guid: 2a551574871bfe34096804034e028dc1, type: 2}

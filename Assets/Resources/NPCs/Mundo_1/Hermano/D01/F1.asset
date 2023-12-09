@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F1
   m_EditorClassIdentifier: 
-  text: "No dig\xE1is m\xE1s compa\xF1ero, ahora mismo me pongo a reunir los materiales
-    para forjaros el mejor pico que hay\xE1is visto jam\xE1s."
+  text: "Tengo cierta experiencia en la agricultura, podr\xEDa ense\xF1arte a usar
+    bien la hoz, de esa manera podr\xE1s conseguir mas trigo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

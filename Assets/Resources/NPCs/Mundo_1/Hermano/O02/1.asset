@@ -10,11 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: F1
+  m_Name: 1
   m_EditorClassIdentifier: 
-  text: "No dig\xE1is m\xE1s compa\xF1ero, ahora mismo me pongo a reunir los materiales
-    para forjaros el mejor pico que hay\xE1is visto jam\xE1s."
+  text: "He encontrado a un maestro minero y a un agricultor experto, \xBFcon cual
+    te gustar\xEDa que hablara?"
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 0}
-  player: 0
-  narrador: 0
+  nextQuestion: {fileID: 11400000, guid: eb4a1aa12365a1f47928967a5e7b2c01, type: 2}

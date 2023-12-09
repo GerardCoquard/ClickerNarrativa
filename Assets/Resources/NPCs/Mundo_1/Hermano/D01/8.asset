@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
-  m_Name: 2
+  m_Name: 8
   m_EditorClassIdentifier: 
   answers:
-  - text: "Seguro que con m\xE1s hoces podremos segar m\xE1s hect\xE1reas."
+  - text: "Me gustar\xEDa trabajar en el campo de manera mas eficiente."
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "La miner\xEDa va como nunca, creo que es hora de explotar mis fortalezas."
+  - text: "Quiero entender mejor la tierra, as\xED encontrar mas minerales."
     nextNode: {fileID: 0}
     x: 0
     y: 1
   finalQuestion: 1
-  xNode: {fileID: 11400000, guid: 2a551574871bfe34096804034e028dc1, type: 2}
-  yNode: {fileID: 11400000, guid: 2a551574871bfe34096804034e028dc1, type: 2}
+  xNode: {fileID: 11400000, guid: 4aabf6bf483add54a99e9d492f109adf, type: 2}
+  yNode: {fileID: 11400000, guid: a1c40d015ffb17e4c800d093fc0324b9, type: 2}

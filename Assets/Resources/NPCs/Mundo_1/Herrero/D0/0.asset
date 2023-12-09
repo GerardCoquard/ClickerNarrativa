@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: F1
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "No dig\xE1is m\xE1s compa\xF1ero, ahora mismo me pongo a reunir los materiales
-    para forjaros el mejor pico que hay\xE1is visto jam\xE1s."
-  nextNode: {fileID: 0}
+  text: "Abarbaran, siento pedirte tantas cosas, pero necesito m\xE1s, necesito m\xE1s
+    Diuras, y te necesito a ti, necesito que me..."
+  nextNode: {fileID: 11400000, guid: c9b5da9011be22c4aa317fa2ce33d5fc, type: 2}
   nextQuestion: {fileID: 0}
-  player: 0
+  player: 1
   narrador: 0

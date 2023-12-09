@@ -15,11 +15,14 @@ MonoBehaviour:
   answers:
   - text: De acuerdo, precisamente se tengo nuevos esclavos en las minas que necesitan
       herramientas.
-    nextNode: {fileID: 11400000, guid: c18badc040ba91c44b338730f68b878b, type: 2}
+    nextNode: {fileID: 0}
     x: 1
     y: 0
   - text: "Me parece bien, las herraduras de mis caballos se est\xE1n desgastando
       y me ir\xEDan bien nuevas."
-    nextNode: {fileID: 11400000, guid: c18badc040ba91c44b338730f68b878b, type: 2}
+    nextNode: {fileID: 0}
     x: 0
     y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: c18badc040ba91c44b338730f68b878b, type: 2}
+  yNode: {fileID: 11400000, guid: c18badc040ba91c44b338730f68b878b, type: 2}
