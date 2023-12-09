@@ -14,6 +14,8 @@ public class ControllerNPC : MonoBehaviour
     }
     public bool CheckConditions()
     {
+        if(currentPosition >= npc.npcRequirements.Count) return false;
+
         NPCRequirement requirements = npc.npcRequirements[currentPosition];
         if(GameManager.instance.currency < requirements.currencyAmount) return false;
         if(requirements.npcRequirements == null) return true;
@@ -43,7 +45,8 @@ public class ControllerNPC : MonoBehaviour
         }
         else
         {
-            RequirementsController.instance.Show(npc.npcRequirements[currentPosition]);
+            if(currentPosition < npc.npcRequirements.Count) RequirementsController.instance.Show(npc.npcRequirements[currentPosition]);
+            else RequirementsController.instance.MaxRequirements();
         }
     }
     public DialogueNode GetDialogueNode()

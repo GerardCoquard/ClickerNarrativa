@@ -6,15 +6,12 @@ using TMPro;
 
 public  class GameManager : MonoBehaviour
 {
-    public DialogueNode testNode;
     public static GameManager instance;
     [NonSerialized]
     public float currency;
     public int currentPhase;
     public float currencyLimit;
     public string locationName;
-    public Color normalColor;
-    public Color limitColor;
     public TextMeshProUGUI currencyDidsplay;
     public TextMeshProUGUI locationDisplay;
     private void Awake() {

@@ -10,11 +10,11 @@ public class NPC : MonoBehaviour
     public NPCData data;
     public Sprite[] npcUpgradeIcon;
     public Image _icon;
-    //[NonSerialized]
+    [NonSerialized]
     public bool[] unblockeds;
-    //[NonSerialized]
+    [NonSerialized]
     public int[] levels;
-    //[NonSerialized]
+    [NonSerialized]
     public int[] offers;
     public List<NPCRequirement> npcRequirements = new List<NPCRequirement>();
     ControllerNPC controller;
