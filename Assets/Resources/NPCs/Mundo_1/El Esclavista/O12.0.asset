@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
+  m_Name: O12.0
+  m_EditorClassIdentifier: 
+  text: "Ya puedes ver que mis esclavos son la clave para el progreso r\xE1pido.
+    Puedo ofrecerte un trato especial, solo para ti"
+  nextNode: {fileID: 11400000, guid: bf9aa893d4e2cb24a86597a32635d536, type: 2}
+  nextQuestion: {fileID: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: D01.6
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "\xA1M\xE1s te vale querer! O si no habr\xE1 consecuencias..."
+    nextNode: {fileID: 11400000, guid: 3045860dc5967dd478e68d7fe5c81eb4, type: 2}
+    x: 1
+    y: 0
+  - text: "No se si ayudarme es lo que quieres, pero s\xED que s\xE9 de algo que
+      te interesa: Diuras."
+    nextNode: {fileID: 11400000, guid: 3045860dc5967dd478e68d7fe5c81eb4, type: 2}
+    x: 0
+    y: 1
