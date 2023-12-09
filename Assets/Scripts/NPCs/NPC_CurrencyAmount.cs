@@ -25,4 +25,8 @@ public class NPC_CurrencyAmount : NPC
     {
         return new int[2] {GetTotalUpgrades(),GetTotalUpgrades()};
     }
+    public override float GetCost(int upgrade)
+    {
+        return GameManager.instance.currencyLimit;
+    }
 }
