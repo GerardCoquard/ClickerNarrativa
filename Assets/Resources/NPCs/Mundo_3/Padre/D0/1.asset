@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  text: "Hay distintas maneras de obtener \xE9ter, yo te ensa\xF1ar\xE9 todos los
+    m\xE9todos y como aumentar tu poder para hacerlo mejor."
+  nextNode: {fileID: 0}
+  nextQuestion: {fileID: 11400000, guid: ea5c0a63e769b444c826147426a8629c, type: 2}
+  player: 0
+  narrador: 0
