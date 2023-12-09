@@ -15,7 +15,7 @@ MonoBehaviour:
   mainBarAmount: 200
   mainBarTime: 50
   actorAmount: 0
-  autoBarTime: 60
+  autoBarTime: 100
   autoBarLimitTime: 0.2
   mainBarLimitTime: 0.2
   actorName: Comercio

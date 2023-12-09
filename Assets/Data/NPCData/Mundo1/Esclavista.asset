@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0759bb1a846923544ae8babc5139ab1c, type: 3}
   m_Name: Esclavista
   m_EditorClassIdentifier: 
-  _baseCost: 500
-  _modifierValue: 4
+  _baseCost: 450
+  _modifierValue: 1
   _name: Esclavista
   _icon: {fileID: 21300000, guid: 03dfbc5c7faf82a4aa226df22c20553c, type: 3}

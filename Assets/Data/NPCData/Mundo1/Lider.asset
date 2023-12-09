@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0759bb1a846923544ae8babc5139ab1c, type: 3}
   m_Name: Lider
   m_EditorClassIdentifier: 
-  _baseCost: 200
+  _baseCost: 2000
   _modifierValue: 2
   _name: "L\xEDder"
   _icon: {fileID: 21300000, guid: c3a58712d34215f4bb53bac730bc7e14, type: 3}
