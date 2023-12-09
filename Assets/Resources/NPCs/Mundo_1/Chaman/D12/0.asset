@@ -15,3 +15,5 @@ MonoBehaviour:
   text: "\xA1Cham\xE1n! Necesito tu ayuda."
   nextNode: {fileID: 11400000, guid: 356eaa56c31cd4644bafbca215913755, type: 2}
   nextQuestion: {fileID: 0}
+  player: 1
+  narrador: 0

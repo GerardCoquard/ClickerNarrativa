@@ -15,3 +15,5 @@ MonoBehaviour:
   text: ...
   nextNode: {fileID: 11400000, guid: bfb9eaddfb3059e48a15787b9fd6f500, type: 2}
   nextQuestion: {fileID: 0}
+  player: 1
+  narrador: 0

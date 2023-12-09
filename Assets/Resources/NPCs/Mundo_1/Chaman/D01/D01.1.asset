@@ -15,3 +15,5 @@ MonoBehaviour:
   text: "\xBF...Hola...?"
   nextNode: {fileID: 11400000, guid: 9730ad8d646e8e448a31ad28597caff2, type: 2}
   nextQuestion: {fileID: 0}
+  player: 1
+  narrador: 0

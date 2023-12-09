@@ -15,3 +15,5 @@ MonoBehaviour:
   text: "\xA1Cham\xE1n! Vengo a hablar conti..."
   nextNode: {fileID: 11400000, guid: abbeeb05ac36c8c4c892edc02fbcd297, type: 2}
   nextQuestion: {fileID: 0}
+  player: 1
+  narrador: 0
