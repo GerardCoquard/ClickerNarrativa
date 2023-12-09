@@ -185,9 +185,24 @@ public class DialogueManager : MonoBehaviour
     }
     string SetText(string oldText)
     {
-        string newText = oldText.Replace("Diuras",Utilities.ToCurrencyType(""));
-        newText = newText.Replace("Almas",Utilities.ToCurrencyType(""));
-        return newText.Replace("Eter",Utilities.ToCurrencyType(""));
+        string currency = "";
+        switch (GameManager.instance.currentPhase)
+        {
+            case 0: currency = "Diuras";
+            break;
+
+            case 1: currency = "Almas";
+            break;
+
+            case 2: currency = "Eter";
+            break;
+            default:
+            break;
+        }
+        string newText = oldText.Replace(currency,Utilities.ToCurrencyType(""));
+        newText = newText.Replace(currency+"?",Utilities.ToCurrencyType(""));
+        newText = newText.Replace(currency+".",Utilities.ToCurrencyType(""));
+        return newText.Replace(currency+",",Utilities.ToCurrencyType(""));
     }
 }
 public enum DIALOGUE_STATE

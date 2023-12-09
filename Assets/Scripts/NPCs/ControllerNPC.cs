@@ -48,12 +48,8 @@ public class ControllerNPC : MonoBehaviour
     }
     public DialogueNode GetDialogueNode()
     {
-        //return GameManager.instance.testNode;
-
-        if(npc.HasAllUpgrades()) GetDialogueName("O",npc.GetOffers());
+        if(npc.HasAllUpgrades()) return GetDialogueName("O",npc.GetOffers());
         else return GetDialogueName("D",npc.GetUpgrades());
-
-        return null;
     }
     public DialogueNode GetDialogueName(string _type, int[] indexes)
     {
