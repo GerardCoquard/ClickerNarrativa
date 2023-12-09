@@ -14,6 +14,7 @@ public  class GameManager : MonoBehaviour
     public string locationName;
     public TextMeshProUGUI currencyDidsplay;
     public TextMeshProUGUI locationDisplay;
+    bool cheats;
     private void Awake() {
         instance = this;
         currency = 0;
@@ -23,6 +24,13 @@ public  class GameManager : MonoBehaviour
     private void Update() {
         if(currency>=currencyLimit) currencyDidsplay.text = Utilities.ToCurrency(currency) + " (Max)";
         else currencyDidsplay.text = Utilities.ToCurrency(currency);
+
+        if(Input.GetKeyDown(KeyCode.E))
+        {
+            cheats = !cheats;
+        }
+
+        if(cheats) currency = currencyLimit;
     }
     public void AddCurrency(float newCurrency)
     {
