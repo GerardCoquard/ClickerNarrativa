@@ -61,7 +61,7 @@ public class ControllerNPC : MonoBehaviour
         string npcName = npc.data.name.Replace("í","i");
         npcName = npcName.Replace("á","a");
 
-        return (DialogueNode) Resources.Load("NPCs/Mundo_"+(GameManager.instance.currentPhase+1).ToString()+"/"+npcName+"/"+fileName+".0");
+        return (DialogueNode) Resources.Load("NPCs/Mundo_"+(GameManager.instance.currentPhase+1).ToString()+"/"+npcName+"/"+fileName+"/"+"0");
     }
 }
 [System.Serializable]

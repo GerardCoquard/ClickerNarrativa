@@ -222,9 +222,6 @@ public class DialogueManager : MonoBehaviour
             break;
         }
         return  oldText.Replace(currency,Utilities.ToCurrencyType(""));
-        //newText = newText.Replace(currency+"?",Utilities.ToCurrencyType(""));
-        //newText = newText.Replace(currency+".",Utilities.ToCurrencyType(""));
-        //return newText.Replace(currency+",",Utilities.ToCurrencyType(""));
     }
     void SetSpeaker()
     {
