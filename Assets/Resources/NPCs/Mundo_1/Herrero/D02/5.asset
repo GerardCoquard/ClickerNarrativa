@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Este a\xF1o nos tenemos que poner a cosechar si queremos tener buenas
+      reservas.\r\nNecesito que me forjes una hoz capaz de segar hect\xE1reas de
+      campo sin mellarse."
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: "Pues mira Abararban, recientemente he ido a visitar otros pueblos para
+      poder comerciar con su gente, pero los trayectos son largos, y necesito carruajes
+      en condiciones para no tardar tantos d\xEDas en viajar entre pueblos."
+    nextNode: {fileID: 0}
+    x: 0
+    y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: b5e97eca900650742af5ee5a22da2dc1, type: 2}
+  yNode: {fileID: 11400000, guid: 76442ddd362b88840bfa178dc4a6491e, type: 2}
