@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: D01.0
+  m_Name: D01.1.1
   m_EditorClassIdentifier: 
-  text: "Hermano, se que estas ocupado, pero \xBFme podr\xEDas dedicar un momento?"
-  nextNode: {fileID: 11400000, guid: aae5facc25f3ec241a4989066dde12e9, type: 2}
+  text: ...Tu hermano se interpone en tu paso con cara preocupada...
+  nextNode: {fileID: 11400000, guid: 146fe04b337ecb64fb19eac89ef0dbe2, type: 2}
   nextQuestion: {fileID: 0}
