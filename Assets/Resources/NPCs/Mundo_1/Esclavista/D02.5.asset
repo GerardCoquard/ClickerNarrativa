@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D02.5
   m_EditorClassIdentifier: 
-  text: Excelente! como me gusta hacer negocios contigo.
+  text: "\xA1Excelente! como me gusta hacer negocios contigo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 4d7aee725a769404094679d0c1208b56, type: 2}

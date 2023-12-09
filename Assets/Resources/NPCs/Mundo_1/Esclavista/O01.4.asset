@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: O01.4
   m_EditorClassIdentifier: 
   text: "\xA1Como lo has sabido! Son demasiados y han llegado todos de golpe, te
-    hago un descuento por ellos"
+    hago un descuento por ellos."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

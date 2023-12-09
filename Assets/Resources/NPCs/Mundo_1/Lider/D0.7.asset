@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: D0.7
   m_EditorClassIdentifier: 
   text: "Pero yo creo en que todos los ciudadanos del Valle debemos prosperar, as\xED
-    que te ofrezco una simple trato"
+    que te ofrezco una simple trato."
   nextNode: {fileID: 11400000, guid: 53a4ae4572278c8449230ac4f3629ffb, type: 2}
   nextQuestion: {fileID: 0}

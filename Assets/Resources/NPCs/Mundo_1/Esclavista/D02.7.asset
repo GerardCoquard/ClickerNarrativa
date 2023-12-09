@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D02.7
   m_EditorClassIdentifier: 
-  text: "\xA1Claro que si! Ahora mismo te los entrego"
+  text: "\xA1Claro que si! Ahora mismo te los entrego."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

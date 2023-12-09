@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: D1.2
   m_EditorClassIdentifier: 
   answers:
-  - text: "Lo siento Saitibi, no es mi intenci\xF3n molestar a nadie"
+  - text: "Lo siento Saitibi, no es mi intenci\xF3n molestar a nadie."
     nextNode: {fileID: 11400000, guid: a82e1883f88769746bcee27825810ecf, type: 2}
     x: 0
     y: 0
-  - text: "Yo solo estoy trabajando duro, nadie deber\xEDa molestarse"
+  - text: "Yo solo estoy trabajando duro, nadie deber\xEDa molestarse."
     nextNode: {fileID: 11400000, guid: 2192241970c1a5447853a64577884287, type: 2}
     x: 0
     y: 0

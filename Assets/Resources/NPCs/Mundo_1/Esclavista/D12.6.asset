@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: D12.6
   m_EditorClassIdentifier: 
   answers:
-  - text: Con unos esclavos fuertes podre explotar mas eficientemente algunos recursos
+  - text: Con unos esclavos fuertes podre explotar mas eficientemente algunos recursos.
     nextNode: {fileID: 11400000, guid: 28d06ad1071609b43a871f95df91c17f, type: 2}
     x: 1
     y: 0

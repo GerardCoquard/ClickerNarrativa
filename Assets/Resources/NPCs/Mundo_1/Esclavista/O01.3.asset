@@ -17,7 +17,7 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 90042145c51aa02488a41cac5390dede, type: 2}
     x: 1
     y: 0
-  - text: "Si era un pueblo minero ,me ir\xEDan como anillo al dedo."
+  - text: "Si era un pueblo minero, me ir\xEDan como anillo al dedo."
     nextNode: {fileID: 11400000, guid: 90042145c51aa02488a41cac5390dede, type: 2}
     x: 0
     y: 1

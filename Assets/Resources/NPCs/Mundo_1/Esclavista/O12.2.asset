@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: "Los fortachones que me has estado enviando son muy \xFAtiles y sin duda
-      voy a necesitar mas"
+      voy a necesitar mas."
     nextNode: {fileID: 11400000, guid: 7c62031985623994c9e844fd0e5f0c15, type: 2}
     x: 1
     y: 0
   - text: "Pues he estado explorando rutas comerciales y los esclavos dan buena impresi\xF3n
-      para los negocios"
+      para los negocios."
     nextNode: {fileID: 11400000, guid: 7c62031985623994c9e844fd0e5f0c15, type: 2}
     x: 0
     y: 1

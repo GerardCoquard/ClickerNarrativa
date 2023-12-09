@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: D2.9
   m_EditorClassIdentifier: 
   answers:
-  - text: Lo que sea, no quiero tener que enfrentarme a nadie, pagare
+  - text: Lo que sea, no quiero tener que enfrentarme a nadie, pagare.
     nextNode: {fileID: 11400000, guid: cb9044bc1872de040b7a15328152e68d, type: 2}
     x: 0
     y: 0
-  - text: "Los envidios no podr\xE1n pararme, nuestra alianza es fruct\xEDfera  "
+  - text: "Los envidios no podr\xE1n pararme, nuestra alianza es fruct\xEDfera."
     nextNode: {fileID: 11400000, guid: cb9044bc1872de040b7a15328152e68d, type: 2}
     x: 0
     y: 0

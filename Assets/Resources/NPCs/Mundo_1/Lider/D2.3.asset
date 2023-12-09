@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: D2.3
   m_EditorClassIdentifier: 
   answers:
-  - text: Todo lo estoy ganando limpiamente, no entiendo el porque
+  - text: Todo lo estoy ganando limpiamente, no entiendo el porque.
     nextNode: {fileID: 11400000, guid: 47f9ca654afc31344a7068e61845f9a4, type: 2}
     x: 0
     y: 0
-  - text: "Que se molesten si quieren, mi objetivo se cumplir\xE1 a todo coste "
+  - text: "Que se molesten si quieren, mi objetivo se cumplir\xE1 a todo coste."
     nextNode: {fileID: 11400000, guid: 0a5b21670f150214b97dfa9d7a6b6f55, type: 2}
     x: 0
     y: 0

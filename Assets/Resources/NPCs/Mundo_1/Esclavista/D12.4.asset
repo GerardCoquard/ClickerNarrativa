@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: D12.4
   m_EditorClassIdentifier: 
   answers:
-  - text: "Labores duras que requieren alta rendimiento f\xEDsico"
+  - text: "Labores duras que requieren alta rendimiento f\xEDsico."
     nextNode: {fileID: 11400000, guid: 229f2636e8f56b04a80ff25476bef5e5, type: 2}
     x: 1
     y: 0
-  - text: "Quisiera dar una buena impresi\xF3n y que me ayudara a vender mis mercanc\xEDas"
+  - text: "Quisiera dar una buena impresi\xF3n y que me ayudara a vender mis mercanc\xEDas."
     nextNode: {fileID: 11400000, guid: 229f2636e8f56b04a80ff25476bef5e5, type: 2}
     x: 0
     y: 1

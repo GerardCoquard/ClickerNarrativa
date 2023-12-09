@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D0.6
   m_EditorClassIdentifier: 
-  text: "Las potencias de tu villa est\xE1n preocupadas por el dinero que estas acumulando"
+  text: "Las potencias de tu villa est\xE1n preocupadas por el dinero que estas acumulando."
   nextNode: {fileID: 11400000, guid: 8ce0600b9e25cf8439e66eb4b44316df, type: 2}
   nextQuestion: {fileID: 0}

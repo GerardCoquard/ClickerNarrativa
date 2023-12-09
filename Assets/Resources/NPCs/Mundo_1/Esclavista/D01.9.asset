@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D01.9
   m_EditorClassIdentifier: 
-  text: "\xA1Excelente elecci\xF3n! Aqui tienes"
+  text: "\xA1Excelente elecci\xF3n! Aqui tienes."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

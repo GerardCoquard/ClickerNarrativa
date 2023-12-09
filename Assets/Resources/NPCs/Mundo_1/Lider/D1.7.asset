@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: D1.7
   m_EditorClassIdentifier: 
   text: "Aun as\xED, yo creo en ti, estoy dispuesto a ofrecerte grandes cantidades
-    de almacenamiento y protecci\xF3n "
+    de almacenamiento y protecci\xF3n."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: b2a347ead9e2c514a9e56e9dda45214b, type: 2}

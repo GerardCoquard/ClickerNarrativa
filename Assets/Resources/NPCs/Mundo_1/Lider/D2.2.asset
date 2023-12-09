@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "Las potencias del valle est\xE1n alteradas, tu acumulaci\xF3n de riquezas
     esta alarmando a todo el mundoLas potencias del valle est\xE1n alteradas, tu
-    acumulaci\xF3n de riquezas esta alarmando a todo el mundo"
+    acumulaci\xF3n de riquezas esta alarmando a todo el mundo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 7ba2c77c8f192744cac45aa5524e61b7, type: 2}

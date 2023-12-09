@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: Es una gran idea, estoy muy agradecido por su ayuda, te pagare en cuanto
-      pueda
+      pueda.
     nextNode: {fileID: 11400000, guid: 823017640d30992408eeab1a2039430a, type: 2}
     x: 0
     y: 0
-  - text: "Realmente ya no se donde mas guardar mis Diuras, as\xED que me lo pensare"
+  - text: "Realmente ya no se donde mas guardar mis Diuras, as\xED que me lo pensare."
     nextNode: {fileID: 11400000, guid: 823017640d30992408eeab1a2039430a, type: 2}
     x: 0
     y: 0

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: D2.8
   m_EditorClassIdentifier: 
   text: "A cambio de un buen intercambio de bienes, proteger\xE9 todas tus Diuras,
-    sino el resto ir\xE1n a por ti"
+    sino el resto ir\xE1n a por ti."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 70bcf23b00aff3b439c648830f2d6bd7, type: 2}

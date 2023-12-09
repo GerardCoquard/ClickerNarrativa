@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: D0.3
   m_EditorClassIdentifier: 
   answers:
-  - text: "O gran L\xEDder, es un honor recibir tu invitaci\xF3n, que requiere de
-      mi?"
+  - text: "O gran L\xEDder, es un honor recibir tu invitaci\xF3n, \xBFque requiere
+      de mi?"
     nextNode: {fileID: 11400000, guid: 5cb9af9f5f709114b93f42512f9c4c01, type: 2}
     x: 0
     y: 0
-  - text: Vayamos al grano, que quiere de mi?
+  - text: "Vayamos al grano, \xBFque quiere de mi?"
     nextNode: {fileID: 11400000, guid: ccb669cfb59d3ed4d8dfb5388176e172, type: 2}
     x: 0
     y: 0

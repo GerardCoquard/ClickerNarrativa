@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: D02.4
   m_EditorClassIdentifier: 
   answers:
-  - text: "Labores sencillas que requieren delicadeza y ma\xF1\xF1a"
+  - text: "Labores sencillas que requieren delicadeza y ma\xF1a."
     nextNode: {fileID: 11400000, guid: 0bb8ea5f7690762498300ff64fab4415, type: 2}
     x: 1
     y: 0
-  - text: "Quisiera dar una buena impresi\xF3n y que me ayudara a vender mis mercanc\xEDas"
+  - text: "Quisiera dar una buena impresi\xF3n y que me ayudara a vender mis mercanc\xEDas."
     nextNode: {fileID: 11400000, guid: 0bb8ea5f7690762498300ff64fab4415, type: 2}
     x: 0
     y: 1

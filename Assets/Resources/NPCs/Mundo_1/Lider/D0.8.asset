@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: D0.8
   m_EditorClassIdentifier: 
   text: "A cambio de una peque\xF1a suma, yo te ayudare a almacenar tu dinero, y
-    protegido"
+    protegido."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 19cdc7eeae0b6cf41a53fc1b0b199317, type: 2}

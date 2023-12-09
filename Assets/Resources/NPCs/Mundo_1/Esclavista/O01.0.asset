@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: O01.0
   m_EditorClassIdentifier: 
   text: "Me han llegado vasta cantidad de esclavos reclamados tras las guerras mas
-    all\xE1 del valle"
+    all\xE1 del valle."
   nextNode: {fileID: 11400000, guid: 81d4426e6eac1b741999affd3d617b57, type: 2}
   nextQuestion: {fileID: 0}

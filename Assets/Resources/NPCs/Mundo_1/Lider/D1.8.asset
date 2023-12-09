@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: D1.8
   m_EditorClassIdentifier: 
   answers:
-  - text: "Gracias, es usted un hombre de honor, much\xEDsimas gracias"
+  - text: "Gracias, es usted un hombre de honor, much\xEDsimas gracias."
     nextNode: {fileID: 11400000, guid: 6a7a18248959d694a9440560016785ba, type: 2}
     x: 0
     y: 0
-  - text: "Los envidios no podr\xE1n pararme, nuestra alianza es fruct\xEDfera  "
+  - text: "Los envidios no podr\xE1n pararme, nuestra alianza es fruct\xEDfera."
     nextNode: {fileID: 11400000, guid: 6a7a18248959d694a9440560016785ba, type: 2}
     x: 0
     y: 0

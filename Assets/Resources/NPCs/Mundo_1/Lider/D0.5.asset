@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D0.5
   m_EditorClassIdentifier: 
-  text: Tranquilo, no tenemos porque ser mal educados, te ofrezco un trato
+  text: Tranquilo, no tenemos porque ser mal educados, te ofrezco un trato.
   nextNode: {fileID: 11400000, guid: 2c174c1942dd55e4b9dafb694832a788, type: 2}
   nextQuestion: {fileID: 0}

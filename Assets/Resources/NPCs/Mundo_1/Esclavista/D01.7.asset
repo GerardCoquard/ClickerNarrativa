@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D01.7
   m_EditorClassIdentifier: 
-  text: Entonces tengo exactamente lo que necesitas
+  text: Entonces tengo exactamente lo que necesitas.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: f70ebf5ba94c46043a0d34e4f7edbbca, type: 2}

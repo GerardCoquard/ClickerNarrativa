@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D1.1
   m_EditorClassIdentifier: 
-  text: "Algunos terratenientes y nobles est\xE1n preocupados"
+  text: "Algunos terratenientes y nobles est\xE1n preocupados."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: bcd4c29c44d863041a00c7a72eb29a9f, type: 2}

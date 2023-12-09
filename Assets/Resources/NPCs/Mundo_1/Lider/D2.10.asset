@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D2.10
   m_EditorClassIdentifier: 
-  text: "Siempre estar\xE9 de lado del mas fuerte"
+  text: "Siempre estar\xE9 de lado del mas fuerte."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

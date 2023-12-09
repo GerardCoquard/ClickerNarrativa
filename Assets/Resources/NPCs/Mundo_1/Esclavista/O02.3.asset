@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: "Cada vez tengo mas tierras y mas casas vac\xEDas, los agricultores necesitan
-      mas esclavos"
+      mas esclavos."
     nextNode: {fileID: 11400000, guid: 0555038c820efe44eab0dd0a71028b44, type: 2}
     x: 1
     y: 0
-  - text: Cuantos mas mejor par mis negocios, dame esclavos guapos
+  - text: Cuantos mas mejor par mis negocios, dame esclavos guapos.
     nextNode: {fileID: 11400000, guid: 0555038c820efe44eab0dd0a71028b44, type: 2}
     x: 0
     y: 1

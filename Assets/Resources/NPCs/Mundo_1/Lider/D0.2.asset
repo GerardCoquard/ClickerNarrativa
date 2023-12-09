@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: D0.2
   m_EditorClassIdentifier: 
   text: Me ha comentado el patriarca de la familia, que en tu villa estas dando mucho
-    de que hablar
+    de que hablar.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 6e8ab8f09e2452b439c2a0312c3560e2, type: 2}

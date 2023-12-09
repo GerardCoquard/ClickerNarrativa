@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D2.5
   m_EditorClassIdentifier: 
-  text: Entiendo eso, pero eres una amenaza
+  text: Entiendo eso, pero eres una amenaza.
   nextNode: {fileID: 11400000, guid: 8aac59536b0102b4790f53d6896980b0, type: 2}
   nextQuestion: {fileID: 0}
