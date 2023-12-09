@@ -87,11 +87,26 @@ public class DialogueManager : MonoBehaviour
     }
     IEnumerator Type()
     {
-        foreach (char letter in currentNode.text)
+        for (int i = 0; i < currentNode.text.Length; i++)
         {
-            dialogueText.text += letter;
+            char letter = currentNode.text[i];
+            if(letter == '<')
+            {
+                dialogueText.text += Utilities.ToCurrencyType("");
+                i+=15;
+            }
+            else dialogueText.text += letter;
             yield return new WaitForSeconds(currentTypeSpeed);
         }
+        /*foreach (char letter in currentNode.text)
+        {
+            if(letter == '<')
+            {
+                dialogueText.text += 
+            }
+            else dialogueText.text += letter;
+            yield return new WaitForSeconds(currentTypeSpeed);
+        }*/
         currentState = DIALOGUE_STATE.SKIP;
     }
 
@@ -145,7 +160,7 @@ public class DialogueManager : MonoBehaviour
     private void ShowFullText()
     {
         StopAllCoroutines();
-        dialogueText.text = currentNode.text;
+        dialogueText.text = SetText(currentNode.text);
     }
     private void EndDialogue()
     {
