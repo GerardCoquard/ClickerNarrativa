@@ -48,7 +48,7 @@ public class NPC : MonoBehaviour
         if(offers[upgrade] > 0)
         {
             float modifier = offers[upgrade] == 2 ? Utilities.GetOfferConstant()*Utilities.GetOfferConstant() : Utilities.GetOfferConstant();
-            return cost*modifier;
+            return (int)(cost*modifier);
         }
         else return (int)cost;
     }

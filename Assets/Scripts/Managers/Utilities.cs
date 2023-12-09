@@ -18,7 +18,7 @@ public static class Utilities
         else if (amount > 1000000000) text = (amount / 1000000000).ToString("F1") + "mM";
         else if (amount > 1000000) text = (amount / 1000000).ToString("F1") + "M";
         else if (amount > 1000) text = (amount / 1000).ToString("F1") + "m";
-        else text = amount.ToString();
+        else text = amount.ToString("F1");
         return text;
     }
     public static string ToCurrencyType(string amount)
