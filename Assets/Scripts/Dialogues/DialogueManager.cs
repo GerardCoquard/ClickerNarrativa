@@ -82,13 +82,13 @@ public class DialogueManager : MonoBehaviour
         speakerIcon.sprite = currentNPC.data._icon;
         x = 0;
         y = 0;
+        currentNode.text = SetText(currentNode.text);
         StartCoroutine(Type());
     }
     IEnumerator Type()
     {
         foreach (char letter in currentNode.text)
         {
-
             dialogueText.text += letter;
             yield return new WaitForSeconds(currentTypeSpeed);
         }
@@ -100,7 +100,7 @@ public class DialogueManager : MonoBehaviour
         List<string> _ans = new List<string>();
         foreach (DialogueAnswer item in currentQuestion.answers)
         {
-            _ans.Add(item.text);
+            _ans.Add(SetText(item.text));
         }
         SetAnswers(_ans);
         answering = true;
@@ -129,6 +129,7 @@ public class DialogueManager : MonoBehaviour
         if (currentNode.nextNode != null)
         {
             currentNode = currentNode.nextNode;
+            currentNode.text = SetText(currentNode.text);
             StartCoroutine(Type());
             return;
         }
@@ -166,6 +167,12 @@ public class DialogueManager : MonoBehaviour
         currentState = DIALOGUE_STATE.DEFAULT;
         currentTypeSpeed = defaultTypeSpeed;
         SetAnswers(new List<string>());
+    }
+    string SetText(string oldText)
+    {
+        string newText = oldText.Replace("Diuras",Utilities.ToCurrencyType(""));
+        newText = newText.Replace("Almas",Utilities.ToCurrencyType(""));
+        return newText.Replace("Eter",Utilities.ToCurrencyType(""));
     }
 }
 public enum DIALOGUE_STATE

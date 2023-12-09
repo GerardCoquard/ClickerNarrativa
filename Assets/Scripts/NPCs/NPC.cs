@@ -10,7 +10,6 @@ public class NPC : MonoBehaviour
     public NPCData data;
     public Sprite[] npcUpgradeIcon;
     public Image _icon;
-    public TextMeshProUGUI _name;
     //[NonSerialized]
     public bool[] unblockeds;
     //[NonSerialized]
@@ -22,7 +21,6 @@ public class NPC : MonoBehaviour
     private void Awake() {
         controller = GetComponent<ControllerNPC>();
         _icon.sprite = data._icon;
-        _name.text = data._name;
         unblockeds = new bool[3];
         levels = new int[3];
         offers = new int[3];

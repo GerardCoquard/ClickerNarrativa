@@ -11,7 +11,8 @@ public class NPC_CurrencyAmount : NPC
         for (int i = 0; i < currencyLimits.Length; i++)
         {
             NPCRequirement req = new NPCRequirement();
-            req.currencyAmount = currencyLimits[i];
+            if(i == 0) req.currencyAmount = GameManager.instance.currencyLimit;
+            else req.currencyAmount = currencyLimits[i-1];
             npcRequirements.Add(req);
         }
     }

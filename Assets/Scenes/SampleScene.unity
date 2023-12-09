@@ -4568,7 +4568,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3154554996810442419, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
       propertyPath: npcRequirements.Array.data[0].currencyAmount
-      value: 1000000
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3154554996810442419, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
+      propertyPath: npcRequirements.Array.data[1].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3154554996810442419, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
+      propertyPath: npcRequirements.Array.data[2].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3154554996810442419, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
+      propertyPath: npcRequirements.Array.data[3].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3154554996810442419, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
+      propertyPath: npcRequirements.Array.data[4].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3154554996810442419, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
+      propertyPath: npcRequirements.Array.data[5].currencyAmount
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 3154554996810442420, guid: 991759ea4237bac4891a819f68ac8cdf, type: 3}
       propertyPath: m_Pivot.x
@@ -4764,12 +4784,32 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
+      propertyPath: npcRequirements.Array.data[0].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
       propertyPath: npcRequirements.Array.data[1].currencyAmount
-      value: 10000
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
+      propertyPath: npcRequirements.Array.data[2].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
+      propertyPath: npcRequirements.Array.data[3].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
+      propertyPath: npcRequirements.Array.data[4].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
+      propertyPath: npcRequirements.Array.data[5].currencyAmount
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
       propertyPath: npcRequirements.Array.data[0].npcRequirements.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8388024658351833325, guid: 0041538e262adda468874d1e5f1abbb8, type: 3}
       propertyPath: npcRequirements.Array.data[0].npcRequirements.Array.data[0].npc
@@ -4916,7 +4956,27 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: f7f66502fd3023c409ecfa1421ac6866, type: 2}
     - target: {fileID: 4909785989046677638, guid: 712198b542d86874ab763aeef8e58463, type: 3}
       propertyPath: npcRequirements.Array.data[0].currencyAmount
-      value: 10000
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909785989046677638, guid: 712198b542d86874ab763aeef8e58463, type: 3}
+      propertyPath: npcRequirements.Array.data[1].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909785989046677638, guid: 712198b542d86874ab763aeef8e58463, type: 3}
+      propertyPath: npcRequirements.Array.data[2].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909785989046677638, guid: 712198b542d86874ab763aeef8e58463, type: 3}
+      propertyPath: npcRequirements.Array.data[3].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909785989046677638, guid: 712198b542d86874ab763aeef8e58463, type: 3}
+      propertyPath: npcRequirements.Array.data[4].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4909785989046677638, guid: 712198b542d86874ab763aeef8e58463, type: 3}
+      propertyPath: npcRequirements.Array.data[5].currencyAmount
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 8802214724090052332, guid: 712198b542d86874ab763aeef8e58463, type: 3}
       propertyPath: m_Pivot.x
@@ -5016,6 +5076,22 @@ PrefabInstance:
     m_TransformParent: {fileID: 1222310208}
     m_Modifications:
     - target: {fileID: 1590000164555517827, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
+      propertyPath: data
+      value: 
+      objectReference: {fileID: 11400000, guid: b2d143fa5c2e1814c86da4f91c75fdd6, type: 2}
+    - target: {fileID: 1590000164555517827, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
+      propertyPath: shopIcons.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: a7392ef35e3aa604884c92594c519786, type: 3}
+    - target: {fileID: 1590000164555517827, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
+      propertyPath: shopIcons.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: bc0275cab3eed91479bfa58e88eb7b33, type: 3}
+    - target: {fileID: 1590000164555517827, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
+      propertyPath: shopIcons.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 6fa206c12a3bcc14fb6de3f292c7538b, type: 3}
+    - target: {fileID: 1590000164555517827, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
       propertyPath: npcRequirements.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -5033,7 +5109,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1590000164555517827, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
       propertyPath: npcRequirements.Array.data[0].currencyAmount
-      value: 100000
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 1590000164555517946, guid: 726b50f88d106c14a859d55a85c0a9bd, type: 3}
       propertyPath: m_Pivot.x
@@ -5155,7 +5231,7 @@ PrefabInstance:
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: data
       value: 
-      objectReference: {fileID: 11400000, guid: b2d143fa5c2e1814c86da4f91c75fdd6, type: 2}
+      objectReference: {fileID: 11400000, guid: 0ef674c1754e5b4448397964d7c42cd0, type: 2}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.size
       value: 6
@@ -5165,12 +5241,32 @@ PrefabInstance:
       value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[1].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[2].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[3].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[4].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[5].currencyAmount
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[0].npcRequirements.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.size
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[0].npcRequirements.Array.data[0].npc
@@ -5179,15 +5275,15 @@ PrefabInstance:
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.data[0].npc
       value: 
-      objectReference: {fileID: 1680324224}
+      objectReference: {fileID: 2357808148011688202}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.data[1].npc
       value: 
-      objectReference: {fileID: 7568916442124514714}
+      objectReference: {fileID: 2357808148011688202}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.data[2].npc
       value: 
-      objectReference: {fileID: 4718881241704298313}
+      objectReference: {fileID: 2357808148011688202}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.data[3].npc
       value: 
@@ -5202,7 +5298,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.data[1].amountUpgrades
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[1].npcRequirements.Array.data[2].amountUpgrades
