@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9316b6617bd2b449dfc384a61f73a4, type: 3}
   m_Name: Mineria
   m_EditorClassIdentifier: 
-  mainBarAmount: 10
-  mainBarTime: 2
-  actorAmount: 5
-  autoBarTime: 4
+  mainBarAmount: 50
+  mainBarTime: 12.5
+  actorAmount: 0
+  autoBarTime: 15
   autoBarLimitTime: 1
   mainBarLimitTime: 1
   actorName: Mineria
