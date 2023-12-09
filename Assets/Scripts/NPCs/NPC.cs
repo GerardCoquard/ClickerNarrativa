@@ -12,7 +12,7 @@ public class NPC : MonoBehaviour
     public Image _icon;
     [NonSerialized]
     public bool[] unblockeds;
-    [NonSerialized]
+    //[NonSerialized]
     public int[] levels;
     [NonSerialized]
     public int[] offers;
@@ -42,7 +42,7 @@ public class NPC : MonoBehaviour
         ApplyUpgrade(upgrade);
         RefreshShop();
     }
-    public float GetCost(int upgrade)
+    public virtual float GetCost(int upgrade)
     {
         float cost = data._baseCost*Mathf.Pow(Utilities.GetLevelConstant(),levels[upgrade]);
         if(offers[upgrade] > 0)
