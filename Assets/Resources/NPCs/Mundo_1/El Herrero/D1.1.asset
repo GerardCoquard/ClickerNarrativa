@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: D1.1
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
+  text: "Fabriques picos, una cueva no muy lejos de aqu\xED ha sido hallada, y las
+    vetas son visibles desde la entrada, mis hombres y yo queremos hacernos con esos
+    minerales."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  nextQuestion: {fileID: 0}

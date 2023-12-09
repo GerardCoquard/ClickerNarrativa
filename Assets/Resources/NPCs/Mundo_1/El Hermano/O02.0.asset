@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: O02.0
   m_EditorClassIdentifier: 
   text: Desde que trabajamos juntos, me contactan familias nobles de todo el valle...
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: e64ba9aeb8245d14a94c5ac2abb76142, type: 2}
   nextQuestion: {fileID: 0}

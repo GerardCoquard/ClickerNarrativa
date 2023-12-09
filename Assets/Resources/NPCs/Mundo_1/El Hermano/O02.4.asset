@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O02.4
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
+  text: Veo que no se te quita el dinero de la cabeza, pero trato hecho, contactare
+    con ellos.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

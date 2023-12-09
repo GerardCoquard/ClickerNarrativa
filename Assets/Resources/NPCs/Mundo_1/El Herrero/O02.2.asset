@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O02.2
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
+  text: "\xBFDe veras? Mis m\xE1s sinceras disculpas compa\xF1ero, a modo de compensaci\xF3n
+    te las volver\xE9 a forjar a un precio rebajado."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  nextQuestion: {fileID: 0}

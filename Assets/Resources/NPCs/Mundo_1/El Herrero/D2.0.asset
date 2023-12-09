@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: D2.0
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
-  nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  text: "Abarbaran, siento pedirte tantas cosas, pero necesito m\xE1s, necesito m\xE1s
+    Diuras, y te necesito a ti, necesito que me..."
+  nextNode: {fileID: 11400000, guid: 02d8d4cf91e679b44a480d8cd055d7f1, type: 2}
+  nextQuestion: {fileID: 0}

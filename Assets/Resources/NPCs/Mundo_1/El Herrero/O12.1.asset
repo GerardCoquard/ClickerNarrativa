@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: O12.1
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
+  text: "Como est\xE1 aprendiendo y es su segunda semana, me gustar\xEDa que le dejases
+    forjarte algo, y como no te puedo asegurar la calidad, te hago un peque\xF1o
+    descuento."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  nextQuestion: {fileID: 11400000, guid: b607eb32796640f45bc5d88e7f2165e6, type: 2}

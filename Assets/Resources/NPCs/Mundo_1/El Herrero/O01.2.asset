@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
-  m_Name: O02.3
+  m_Name: O01.2
   m_EditorClassIdentifier: 
   answers:
-  - text: Esa familia tenia buenos campos no? Tal vez me permitan cuidarlos...
-    nextNode: {fileID: 11400000, guid: 2e2d059a1c03c844894d63abfcb58cf1, type: 2}
+  - text: "Seguro que con m\xE1s hoces podremos segar m\xE1s hect\xE1reas."
+    nextNode: {fileID: 11400000, guid: 2a551574871bfe34096804034e028dc1, type: 2}
     x: 1
     y: 0
-  - text: No eran una familia poderosa? Tal vez ahora pueda hacer negocios con ellos.
-    nextNode: {fileID: 11400000, guid: 2e2d059a1c03c844894d63abfcb58cf1, type: 2}
+  - text: "La miner\xEDa va como nunca, creo que es hora de explotar mis fortalezas."
+    nextNode: {fileID: 11400000, guid: 2a551574871bfe34096804034e028dc1, type: 2}
     x: 0
     y: 1

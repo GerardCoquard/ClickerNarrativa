@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: D02.4
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
+  text: "Lo s\xE9 lo s\xE9 compa\xF1ero, pero nunca hab\xEDa visto a nadie como t\xFA.
+    \xBFC\xF3mo te puedo ayudar esta vez?"
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  nextQuestion: {fileID: 11400000, guid: add66c4d9948cac46bddce7bde75ac66, type: 2}

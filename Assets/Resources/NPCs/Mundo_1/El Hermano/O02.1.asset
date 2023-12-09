@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "\xA1Los dioses me han unido con una Mujer! Con la hija de la familia Beles,
     \xA1hermano que feliz soy!"
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: 78f5cb0dd85fb0e4a998b89bdfec336b, type: 2}
   nextQuestion: {fileID: 0}

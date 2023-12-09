@@ -10,14 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
-  m_Name: O02.3
+  m_Name: O02.1
   m_EditorClassIdentifier: 
   answers:
-  - text: Esa familia tenia buenos campos no? Tal vez me permitan cuidarlos...
-    nextNode: {fileID: 11400000, guid: 2e2d059a1c03c844894d63abfcb58cf1, type: 2}
+  - text: "Abararban, las hoces que me fabricaste no est\xE1n funcionando como es
+      debido, necesito que las reemplazes cuanto antes."
+    nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: No eran una familia poderosa? Tal vez ahora pueda hacer negocios con ellos.
-    nextNode: {fileID: 11400000, guid: 2e2d059a1c03c844894d63abfcb58cf1, type: 2}
+  - text: Las ruedas que me fabricaste... algo les pasa, necesito que me hagas otras.
+    nextNode: {fileID: 0}
     x: 0
     y: 1

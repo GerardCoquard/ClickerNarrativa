@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: O12.3
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
-  nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  text: "Bertr\xE1n, ya has o\xEDdo al se\xF1or."
+  nextNode: {fileID: 11400000, guid: 3f419cdc4c8cff0428b1db1a8fc73a01, type: 2}
+  nextQuestion: {fileID: 0}

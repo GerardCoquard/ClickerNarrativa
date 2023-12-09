@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O02.2
+  m_Name: O01.1
   m_EditorClassIdentifier: 
-  text: "Que alegr\xEDa hermano, te dije que el trabajo valdr\xEDa la pena."
+  text: "Un nuevo mineral ha sido hallado, el cu\xE1l es capaz de facilitar el trabajo
+    de la forja el doble. Dime, \xBFqu\xE9 necesitas?, te hago un peque\xF1o descuento."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 27542a07df211c449bdb6884952ef1be, type: 2}
+  nextQuestion: {fileID: 11400000, guid: f873c27535dade644bf1e2f1d90eb3de, type: 2}
