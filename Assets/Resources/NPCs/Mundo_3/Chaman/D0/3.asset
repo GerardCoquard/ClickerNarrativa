@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Me alegro que tambi\xE9n hayas salido del Garbitu."
+    nextNode: {fileID: 11400000, guid: 31180274df893ed4c8cae40614a7b887, type: 2}
+    x: 0
+    y: 0
+  - text: Parece que no me libro de ti, gracias por la ayuda.
+    nextNode: {fileID: 11400000, guid: 31180274df893ed4c8cae40614a7b887, type: 2}
+    x: 0
+    y: 0
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}
