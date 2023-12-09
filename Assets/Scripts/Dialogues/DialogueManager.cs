@@ -229,17 +229,20 @@ public class DialogueManager : MonoBehaviour
         {
             speakerName.text = "Jugador";
             speakerIcon.sprite = playerIcon;
+            dialogueText.fontStyle = FontStyles.Normal;
             return;
         }
         if(currentNode.narrador)
         {
             speakerName.text = "";
             speakerIcon.sprite = narradorIcon;
+            dialogueText.fontStyle = FontStyles.Italic;
             return;
         }
 
         speakerName.text = currentNPC.data._name;
         speakerIcon.sprite = currentNPC.data._icon;
+        dialogueText.fontStyle = FontStyles.Normal;
     }
 }
 public enum DIALOGUE_STATE
