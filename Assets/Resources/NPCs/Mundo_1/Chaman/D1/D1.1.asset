@@ -16,5 +16,5 @@ MonoBehaviour:
     m\xE1s densa."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
-  player: 0
+  player: 1
   narrador: 0

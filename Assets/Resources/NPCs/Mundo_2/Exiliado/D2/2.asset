@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "\xA1Me alegra o\xEDr eso! Quiero decir me alegra que me falte poco no
+      que no nos volvamos a ver..."
+    nextNode: {fileID: 11400000, guid: bf9db8bb39f040046841e6983195be1f, type: 2}
+    x: 1
+    y: 0
+  - text: "No digas eso, mmh... Perd\xF3n \"El Exiliado\" no es tu verdadero nombre,
+      \xBFverdad?"
+    nextNode: {fileID: 11400000, guid: e7b80cd97430f654ab0330a17a0e9312, type: 2}
+    x: 0
+    y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

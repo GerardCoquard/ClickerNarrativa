@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  answers:
+  - text: Canalizar almas, con eso me vasto.
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: Forjar almas es lo mas rentable a largo plazo.
+    nextNode: {fileID: 0}
+    x: 0
+    y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: 545e1d8cf1c721a48a99babdf577e1b5, type: 2}
+  yNode: {fileID: 11400000, guid: 545e1d8cf1c721a48a99babdf577e1b5, type: 2}

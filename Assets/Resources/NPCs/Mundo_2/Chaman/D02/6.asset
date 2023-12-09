@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Pues potencia mis empleados, quiero a los mas trabajadores y a los m\xE1s
+      rapidos."
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: "Quiero a unos pocos esp\xEDritus perfectos, ay\xFAdame."
+    nextNode: {fileID: 0}
+    x: 0
+    y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: 8ed4e94cb4b0c1b42a8869777d1abcc0, type: 2}
+  yNode: {fileID: 11400000, guid: a69960ce0abd38f4ba5240bd5050b6f5, type: 2}

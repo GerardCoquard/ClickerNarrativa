@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Dime que tienes alguna locura de las tuyas para hacerme salir de aqu\xED
+      r\xE1pido."
+    nextNode: {fileID: 11400000, guid: b9e5912f8ef3c8f49a46620529607956, type: 2}
+    x: 1
+    y: 0
+  - text: "\xBFTienes alguna manera de optimizar la obtenci\xF3n de almas? Como en
+      el otro mundo."
+    nextNode: {fileID: 11400000, guid: b9e5912f8ef3c8f49a46620529607956, type: 2}
+    x: 0
+    y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

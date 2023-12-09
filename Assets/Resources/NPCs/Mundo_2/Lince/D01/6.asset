@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  answers:
+  - text: Si por favor, algo sencillo que pueda hacer en poco tiempo.
+    nextNode: {fileID: 11400000, guid: 933c62d5984d6064383c030b2b37f37a, type: 2}
+    x: 1
+    y: 0
+  - text: "Eso seria de gran ayuda, \xBFconoces una forma constante y segura de redimir
+      almas?"
+    nextNode: {fileID: 11400000, guid: 933c62d5984d6064383c030b2b37f37a, type: 2}
+    x: 0
+    y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

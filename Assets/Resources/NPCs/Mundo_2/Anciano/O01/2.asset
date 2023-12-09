@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Necesito canalizar los pecados con m\xE1s facilidad."
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: "Quiero poder ser m\xE1s eficiente purgando almas."
+    nextNode: {fileID: 0}
+    x: 0
+    y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: b20723a958be153498e28f1a0a7e5e8d, type: 2}
+  yNode: {fileID: 11400000, guid: b20723a958be153498e28f1a0a7e5e8d, type: 2}

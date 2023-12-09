@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O01.2
   m_EditorClassIdentifier: 
-  text: "...pero hay varios artilugios que se los podr\xEDas \"coger prestados\"..."
+  text: "Pero hay varios artilugios que se los podr\xEDas \"coger prestados\""
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 362a67fada30fa241a7e33321eaaecaa, type: 2}
+  player: 0
+  narrador: 1

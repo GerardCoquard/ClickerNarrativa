@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O01.1
   m_EditorClassIdentifier: 
-  text: "...parece que el Cham\xE1n no est\xE1..."
+  text: "Parece que el Cham\xE1n no est\xE1"
   nextNode: {fileID: 11400000, guid: 79bdd20000f2ff74d98f987dcaf73c42, type: 2}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 1

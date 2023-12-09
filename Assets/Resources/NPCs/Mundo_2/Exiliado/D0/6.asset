@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "\xBFEnserio? Si que me preocupaba donde iba a poner tantas almas, eso
+      seria de gran ayuda!"
+    nextNode: {fileID: 0}
+    x: 0
+    y: 0
+  - text: Demasiado bueno para ser cierto... Pero te voy a seguir el rollo.
+    nextNode: {fileID: 0}
+    x: 0
+    y: 0
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: 7d23a29400f50e24da9dc3dd5f7ab4e1, type: 2}
+  yNode: {fileID: 11400000, guid: 7d23a29400f50e24da9dc3dd5f7ab4e1, type: 2}

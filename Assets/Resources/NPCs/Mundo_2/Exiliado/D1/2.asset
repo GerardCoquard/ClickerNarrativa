@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Tus halagos son de lo m\xE1s extra\xF1os."
+    nextNode: {fileID: 11400000, guid: 304d64743b6badf4999ad072184f51fd, type: 2}
+    x: 0
+    y: 0
+  - text: Gracias, creo... Esto es muy importante para mi, tengo que cumplir mi objetivo!.
+    nextNode: {fileID: 11400000, guid: 6384e8c831ba55e46bba031ccd4543b2, type: 2}
+    x: 0
+    y: 0
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

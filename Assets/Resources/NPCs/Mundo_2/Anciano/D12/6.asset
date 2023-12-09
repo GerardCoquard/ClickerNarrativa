@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  answers:
+  - text: "Tiempo es justo lo que necesito para poder acabar lo antes posible, apres\xFArate."
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: "Tomate el tiempo que necesites, as\xED me aseguro que est\xE9 perfecto."
+    nextNode: {fileID: 0}
+    x: 0
+    y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: 3d56d6fa129aa8b45a6974723b675b50, type: 2}
+  yNode: {fileID: 11400000, guid: 6ee4b41ea3a2334448558cc5a479aec2, type: 2}
