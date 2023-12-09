@@ -10,6 +10,7 @@ public class RequirementsController : MonoBehaviour
     public List<Requirement> requirements;
     public NPCRequirement currentRequirements;
     public TextMeshProUGUI currencyText;
+    bool maxRequirements;
 
     private void Awake() {
         instance = this;
@@ -21,13 +22,25 @@ public class RequirementsController : MonoBehaviour
     }
     public void Show(NPCRequirement _req)
     {
+        maxRequirements = false;
         currentRequirements = _req;
         gameObject.SetActive(true);
         SetRequirements();
         UpdateRequirements();
     }
+    public void MaxRequirements()
+    {
+        maxRequirements = true;
+        gameObject.SetActive(true);
+        currencyText.gameObject.SetActive(true);
+        currencyText.text = "Max";
+        foreach (Requirement item in requirements)
+        {
+            item.gameObject.SetActive(false);
+        }
+    }
     private void Update() {
-        UpdateRequirements();
+        if(!maxRequirements) UpdateRequirements();
     }
     public void UpdateRequirements()
     {
