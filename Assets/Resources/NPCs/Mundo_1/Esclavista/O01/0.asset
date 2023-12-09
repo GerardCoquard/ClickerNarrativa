@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O12.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Ya puedes ver que mis esclavos son la clave para el progreso r\xE1pido.
-    Puedo ofrecerte un trato especial, solo para ti."
-  nextNode: {fileID: 11400000, guid: bf9aa893d4e2cb24a86597a32635d536, type: 2}
+  text: "Me han llegado vasta cantidad de esclavos reclamados tras las guerras mas
+    all\xE1 del valle."
+  nextNode: {fileID: 11400000, guid: 81d4426e6eac1b741999affd3d617b57, type: 2}
   nextQuestion: {fileID: 0}

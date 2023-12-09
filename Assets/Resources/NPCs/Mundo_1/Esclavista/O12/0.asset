@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: D2.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: Atiende, esto es urgente.
-  nextNode: {fileID: 11400000, guid: ab23839bbb944774696281ce5c5563f7, type: 2}
+  text: "Ya puedes ver que mis esclavos son la clave para el progreso r\xE1pido.
+    Puedo ofrecerte un trato especial, solo para ti."
+  nextNode: {fileID: 11400000, guid: bf9aa893d4e2cb24a86597a32635d536, type: 2}
   nextQuestion: {fileID: 0}

@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O01.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "\xA1Cham\xE1n! Vengo a hablar conti..."
-  nextNode: {fileID: 11400000, guid: abbeeb05ac36c8c4c892edc02fbcd297, type: 2}
+  text: "Esta es la \xFAltima vez que perturbas mis aposentos, dime que deseas y
+    m\xE1rchate."
+  nextNode: {fileID: 11400000, guid: b933f77ad32579b44b0d7509c2eb9565, type: 2}
   nextQuestion: {fileID: 0}

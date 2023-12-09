@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: D12.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "\xBFTe est\xE1n sirviendo bien los esclavos? \xBFNecesitas mas? "
-  nextNode: {fileID: 0}
-  nextQuestion: {fileID: 11400000, guid: 1c622839423e96741b4a726164e65962, type: 2}
+  text: "Saludos cordiales, soy Saitabi el Bravo, acompa\xF1ado de el representante
+    de la familia Beles."
+  nextNode: {fileID: 11400000, guid: a05e59fe2dffdaa42a922ae38eaedc03, type: 2}
+  nextQuestion: {fileID: 0}

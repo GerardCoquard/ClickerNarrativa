@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: O12.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Buenos d\xEDas Cham-"
-  nextNode: {fileID: 11400000, guid: 3ade7d9e981d9664095731a90614d4e4, type: 2}
+  text: "Ven, ven aqu\xED un momento..."
+  nextNode: {fileID: 11400000, guid: 96799c1168ed79645886dee6ffac8c6b, type: 2}
   nextQuestion: {fileID: 0}

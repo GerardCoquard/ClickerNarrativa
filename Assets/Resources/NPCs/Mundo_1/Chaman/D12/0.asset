@@ -10,9 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: D1.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: Eres mi mejor comprador, por eso te voy a mandar otro tipo de esclavos para
-    mostrar mi gratitud con tus tratos.
-  nextNode: {fileID: 11400000, guid: 0c9aa7336e4f4ba4ebb9cbb144c2f6a4, type: 2}
+  text: "\xA1Cham\xE1n! Necesito tu ayuda."
+  nextNode: {fileID: 11400000, guid: 356eaa56c31cd4644bafbca215913755, type: 2}
   nextQuestion: {fileID: 0}

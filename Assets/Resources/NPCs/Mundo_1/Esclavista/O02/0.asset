@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
-  m_Name: D12.0
+  m_Name: 0
   m_EditorClassIdentifier: 
-  text: "\xA1Cham\xE1n! Necesito tu ayuda."
-  nextNode: {fileID: 11400000, guid: 356eaa56c31cd4644bafbca215913755, type: 2}
+  text: Esto es una locura, sabia que tenias madera para esto pero desde que llegaste
+    me has hecho mas y mas rico.
+  nextNode: {fileID: 11400000, guid: 5d1ee9588a2eb944e8f035c9567ab621, type: 2}
   nextQuestion: {fileID: 0}
