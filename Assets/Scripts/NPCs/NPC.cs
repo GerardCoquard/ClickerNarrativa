@@ -50,7 +50,7 @@ public class NPC : MonoBehaviour
             float modifier = offers[upgrade] == 2 ? Utilities.GetOfferConstant()*Utilities.GetOfferConstant() : Utilities.GetOfferConstant();
             return cost*modifier;
         }
-        else return cost;
+        else return (int)cost;
     }
     public void RefreshShop()
     {
