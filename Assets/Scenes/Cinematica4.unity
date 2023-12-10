@@ -1405,7 +1405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c562d8d62f3e54f49aaf22d37c559ef2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: 5734ac1b0f6d37a4bb0cc09da1042803, type: 2}
+  data: {fileID: 11400000, guid: bb841d5eedc8ec2489812164cd1209ab, type: 2}
   npcUpgradeIcon:
   - {fileID: 0}
   _icon: {fileID: 834118158}
@@ -2711,9 +2711,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d92c9a0c291fb4d99d8e30ff018ec8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingNode: {fileID: 11400000, guid: c4a63f69aaf02274d8d7d03ba1940cab, type: 2}
+  startingNode: {fileID: 11400000, guid: c49be91b524af0943baad1bf2a81c315, type: 2}
   npc: {fileID: 484048132}
-  nextSceneName: Mundo2
+  nextSceneName: Mundo3
 --- !u!224 &1081076105 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3295471232128104013, guid: d3bd5149405fb1e40a7843821337ea32, type: 3}
@@ -3000,7 +3000,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cdc6fdd60525be2428979ebbd0e15267, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3dc5f9820f22665418195ced9b284c7f, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
