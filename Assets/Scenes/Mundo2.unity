@@ -5690,6 +5690,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1680324224}
     - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[4].npcRequirements.Array.data[1].npc
+      value: 
+      objectReference: {fileID: 4718881241704298313}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
+      propertyPath: npcRequirements.Array.data[4].npcRequirements.Array.data[2].npc
+      value: 
+      objectReference: {fileID: 2357808148011688202}
+    - target: {fileID: 5671267829483042825, guid: fbacc9b164e42df4fb471c044a406619, type: 3}
       propertyPath: npcRequirements.Array.data[5].npcRequirements.Array.data[0].npc
       value: 
       objectReference: {fileID: 1680324224}
