@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using Unity.VisualScripting;
+using UnityEngine.Events;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class DialogueManager : MonoBehaviour
     public float fastTypeSpeed;
     public Sprite playerIcon;
     public Sprite narradorIcon;
+    public UnityEvent onEndDialogue;
     DialogueNode currentNode;
     QuestionNode currentQuestion;
     float currentTypeSpeed;
@@ -195,7 +197,7 @@ public class DialogueManager : MonoBehaviour
         {
             currentNPC.Unblock(currentNPC.GetUpgrades()[targetIndex]);
         }
-
+        onEndDialogue?.Invoke();
         dialogueRender.SetActive(false);
     }
     void Clear()

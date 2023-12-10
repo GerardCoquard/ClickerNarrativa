@@ -1231,6 +1231,9 @@ MonoBehaviour:
   fastTypeSpeed: 0.01
   playerIcon: {fileID: 21300000, guid: 7d7339ab4f142f740af96c3d8c4c51f8, type: 3}
   narradorIcon: {fileID: 21300000, guid: 13133548a8f1be04388c9f4d69b77861, type: 3}
+  onEndDialogue:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!222 &529933795
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2576,7 +2579,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ce4b82132ff70a045aee2ef0fd626127, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 99eafd4f1cf9ba146ba44e6f38092117, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
