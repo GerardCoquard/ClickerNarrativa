@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 10
   m_EditorClassIdentifier: 
-  text: "El Padre ha decidido darte el perd\xF3n\r si consigues 1B de almas,\r algo
-    que nadie ha logrado nunca."
+  text: "El Padre ha decidido darte el perd\xF3n si consigues 1B de almas, algo que
+    nadie ha logrado nunca."
   nextNode: {fileID: 11400000, guid: 6dc9568dfafdf2d4da0ce17791c15c0f, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

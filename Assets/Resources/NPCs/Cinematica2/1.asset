@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "Un sonido leve, parecido al del viento, acaricia tus o\xEDdos,\r y en la
-    zona del portal se crea un manto rojo."
+  text: "Un sonido leve, parecido al del viento, acaricia tus o\xEDdos, y en la zona
+    del portal se crea un mato rojo."
   nextNode: {fileID: 11400000, guid: f8320a1c3e6d30d4ead9b5ff52df9cc8, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 8
   m_EditorClassIdentifier: 
-  text: "Si no fuera por ellos, la humanidad y\r los dioses estar\xEDamos extinguidos."
+  text: "Si no fuera por ellos, la humanidad y los dioses estar\xEDamos extinguidos."
   nextNode: {fileID: 11400000, guid: 1ae015bc3bb702e46bf2bdd3558fcc46, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

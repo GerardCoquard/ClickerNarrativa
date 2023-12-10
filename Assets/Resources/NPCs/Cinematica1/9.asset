@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 9
   m_EditorClassIdentifier: 
-  text: "El objetivo estaba claro:\r conseguir 1B Diuras ser\xEDa tu m\xE1xima prioridad
-    a partir de\r ahora."
+  text: "El objetivo estaba claro: conseguir 1B <sprite index=0> ser\xEDa tu m\xE1xima
+    prioridad a partir de ahora."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

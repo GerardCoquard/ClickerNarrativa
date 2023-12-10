@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 5
   m_EditorClassIdentifier: 
-  text: "Necesitamos a alguien como t\xFA en el\r mundo de los dioses, pero para
-    abrir\r el portal necesitas Diuras."
+  text: "Necesitamos a alguien como t\xFA en el mundo de los dioses, para abrir el
+    portal necesitas <sprite index=0>."
   nextNode: {fileID: 11400000, guid: 683ada0bcaf55994b80b22daf817ed33, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Te dispones a abandonar el antiguo portal cuando una voz\r resuena en tu
-    cabeza, y frente a ti, las hojas de los\r \xE1rboles forman la figura de un rostro."
+  text: "Te dispones a abandonar el antiguo portal cuando una voz resuena en tu cabeza,
+    y frente a ti, las hojas de los \xE1rboles forman la figura de un rostro."
   nextNode: {fileID: 11400000, guid: 7e26c9088705e764cb17bc99f6118bf7, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

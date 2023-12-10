@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 6
   m_EditorClassIdentifier: 
-  text: "Consigue alcanzar la cantidad de\r 1B de Diuras, y el portal te\r mostrar\xE1
-    el camino para estar junto a\r nosotros."
+  text: "Consigue alcanzar la cantidad de 1B de <sprite index=0>, y el portal te
+    mostrar\xE1 el camino para estar junto a nosotros."
   nextNode: {fileID: 11400000, guid: 2399cd2af3da2fc4993045fa5155622c, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

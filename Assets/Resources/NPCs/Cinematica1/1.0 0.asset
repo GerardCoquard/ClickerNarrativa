@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1.0 0
   m_EditorClassIdentifier: 
-  text: "Han concluido las oraciones y el\r ritual correspondiente, y os dispon\xE9is
-    a abandonar el lugar.\r\n"
+  text: "Han concluido las oraciones y el ritual correspondiente, y os dispon\xE9is
+    a abandonar el lugar."
   nextNode: {fileID: 11400000, guid: e444e65032ce1e546ad2e4668460501e, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

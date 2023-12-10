@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 6
   m_EditorClassIdentifier: 
-  text: "As\xED es, aunque parezca mentira,\r nosotros solos no podemos mantener
-    el\r cosmos."
+  text: "As\xED es, aunque parezca mentira, nosotros no podemos mantener el cosmos."
   nextNode: {fileID: 11400000, guid: b33ab36f15042a647bc6b5a181fe04c7, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

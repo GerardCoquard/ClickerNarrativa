@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 8
   m_EditorClassIdentifier: 
-  text: "Nunca pensaste en los dem\xE1s, solo en\r ti. Por tu culpa, ahora el valle
-    de\r los vivos est\xE1 pasando por sus peores\r momentos."
+  text: "Nunca pensaste en los dem\xE1s, solo en ti. Por tu culpa, ahora el vvalle
+    de los vivos est\xE1 pasando por sis peores momentos."
   nextNode: {fileID: 11400000, guid: 43e0c9af809a5c941892350f6cb32ab7, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

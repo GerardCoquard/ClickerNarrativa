@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 11
   m_EditorClassIdentifier: 
-  text: "Har\xE9 lo que sea necesario, me\r esforzar\xE9. He abandonado a mi familia\r
+  text: "Har\xE9 lo que sea necesario, me esforzar\xE9. He abandonado a mi familia
     y necesito ir al mundo divino."
   nextNode: {fileID: 11400000, guid: 6e2d8902f96447548b36d42ea465501f, type: 2}
   nextQuestion: {fileID: 0}

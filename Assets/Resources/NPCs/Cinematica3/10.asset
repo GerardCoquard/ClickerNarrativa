@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 10
   m_EditorClassIdentifier: 
-  text: "Adem\xE1s, todos tus seres queridos,\r cuando lleguen a este mundo, te\r
-    podr\xE1n acompa\xF1ar."
+  text: "Adem\xE1s, todos tus seres queridos, cunaod lleguen a este mundo, te podr\xE1n
+    acompa\xF1ar."
   nextNode: {fileID: 11400000, guid: d0ecf2d24d5884b41b98aba643892157, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 7
   m_EditorClassIdentifier: 
-  text: "Eso es cierto, pero \xBFno te has dado\r cuenta de lo que has hecho?\r\nAcumulaste
-    tantas Diuras que\r empobreciste al resto del mundo."
+  text: "Eso es cierto, pero \xBFno te has dado cienta de lo que has hecho? Acumulaste
+    tantas <sprite index=0> que empobreciste al resto del mundo."
   nextNode: {fileID: 11400000, guid: 3f0f1b174a098894bb8d0f2c0959025a, type: 2}
   nextQuestion: {fileID: 0}
   player: 0
