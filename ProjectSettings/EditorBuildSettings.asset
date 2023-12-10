@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Cinematica3.unity
     guid: ac76238f00f628a4cb1c32f4ecadf706
   - enabled: 1
+    path: Assets/Scenes/Cinematica4.unity
+    guid: 1e8dd6a20b4bfcf4d9d734c288771444
+  - enabled: 1
     path: Assets/Scenes/Mundo3.unity
     guid: 05fbba5dea5eaff47bf881f458d6c003
   m_configObjects: {}
