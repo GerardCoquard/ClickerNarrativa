@@ -13,13 +13,16 @@ MonoBehaviour:
   m_Name: O12.4
   m_EditorClassIdentifier: 
   answers:
-  - text: "Justo antes me he encontrado este scarabaeus viettei, y me he fijado que
-      brilla de una manera peculiar, quiz\xE1 te interese."
-    nextNode: {fileID: 11400000, guid: 980d1174b42184a4085dfc0ffca2ae83, type: 2}
-    x: 1
-    y: 0
   - text: "Ven\xEDa a traerte este panal abandonado que me he encontrado en el bosque
       en son de paz, he pensado que podr\xEDas darle alg\xFAn uso."
-    nextNode: {fileID: 11400000, guid: 980d1174b42184a4085dfc0ffca2ae83, type: 2}
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: "Justo antes me he encontrado este scarabaeus viettei, y me he fijado que
+      brilla de una manera peculiar, quiz\xE1 te interese."
+    nextNode: {fileID: 0}
     x: 0
     y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: 980d1174b42184a4085dfc0ffca2ae83, type: 2}
+  yNode: {fileID: 11400000, guid: a5ead5ba27bfbcd42bd00a78609d5d6a, type: 2}

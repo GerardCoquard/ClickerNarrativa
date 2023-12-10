@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D0.1
   m_EditorClassIdentifier: 
-  text: "Tus granjas ser\xE1n mas productivas con mis esclavos. \xA1Ya lo veras!"
+  text: "Tus granjas ser\xE1n mas productivas con mis esclavos. \xA1Ya lo ver\xE1s!"
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O02.1
   m_EditorClassIdentifier: 
-  text: "...Las ropas del hombre ahora son de la mas buena calidad, y esta acompa\xF1ado
-    por un sequito de soldados..."
+  text: "Las ropas del hombre ahora son de la mejor calidad, y est\xE1 acompa\xF1ado
+    por un sequito de soldados."
   nextNode: {fileID: 11400000, guid: 243d56be7b416a14189a5626e97b06c4, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

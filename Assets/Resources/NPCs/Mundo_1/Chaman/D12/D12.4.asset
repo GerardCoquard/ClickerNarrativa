@@ -13,13 +13,14 @@ MonoBehaviour:
   m_Name: D12.4
   m_EditorClassIdentifier: 
   answers:
-  - text: "\xBFQu\xE9 clase de pregunta es esa? \xBFTe crees que mis esclavos tienen
-      ojos de gato para ver en la oscuridad?"
+  - text: "Pagar\xE9 lo que necesites, necesito tu ayuda imediatamente."
     nextNode: {fileID: 11400000, guid: ea8a216f19692e44fac32466a6d51cc3, type: 2}
     x: 1
     y: 0
-  - text: "A diferencia de ti, no tengo el tiempo para preguntarme el porqu\xE9 de
-      los problemas, mi tiempo lo aprovecho en buscar soluciones."
+  - text: "Si busco conseguir mucho dinero, necesitare pagarlo, es l\xF3gico."
     nextNode: {fileID: 11400000, guid: ea8a216f19692e44fac32466a6d51cc3, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

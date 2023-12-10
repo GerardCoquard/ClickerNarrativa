@@ -13,13 +13,14 @@ MonoBehaviour:
   m_Name: D12.2
   m_EditorClassIdentifier: 
   answers:
-  - text: "La situaci\xF3n en las cuevas es inaguantable. Hemos llegado a tener accidentes
-      por culpa de la oscuridad."
+  - text: "Las setas han sido muy \xFAtiles, trabajan sin parar, pero muy lento."
     nextNode: {fileID: 11400000, guid: fd4de0480e3e3c2428e93526cba56d28, type: 2}
     x: 1
     y: 0
-  - text: "\xDAltimamente el negocio del comercio no me va tan bien, y mis esclavos
-      no est\xE1n siendo de ayuda para ello."
+  - text: Tus setas no sirven de nada para mis comerciantes.
     nextNode: {fileID: 11400000, guid: fd4de0480e3e3c2428e93526cba56d28, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

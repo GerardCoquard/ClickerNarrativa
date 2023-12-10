@@ -13,12 +13,15 @@ MonoBehaviour:
   m_Name: O02.3
   m_EditorClassIdentifier: 
   answers:
-  - text: "Cada vez tengo mas tierras y mas casas vac\xEDas, los agricultores necesitan
-      mas esclavos."
+  - text: "Cada vez tengo m\xE1s tierras y m\xE1s casas vac\xEDas, los agricultores
+      necesitan m\xE1s esclavos."
     nextNode: {fileID: 11400000, guid: 0555038c820efe44eab0dd0a71028b44, type: 2}
     x: 1
     y: 0
-  - text: Cuantos mas mejor par mis negocios, dame esclavos guapos.
+  - text: "Cuantos m\xE1s mejor par mis negocios, dame esclavos guapos."
     nextNode: {fileID: 11400000, guid: 0555038c820efe44eab0dd0a71028b44, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D02.5
   m_EditorClassIdentifier: 
-  text: "D\xEDmelo tu pues, \xBFc\xF3mo crees que te puedo ayudar?"
+  text: "D\xEDmelo t\xFA pues, \xBFc\xF3mo crees que te puedo ayudar?"
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: dbf5fad5fe4b74e469ecca628fd2b837, type: 2}
+  player: 0
+  narrador: 0

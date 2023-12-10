@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: D02.4
   m_EditorClassIdentifier: 
   answers:
-  - text: "Si ya lo s\xE9... Es por el calor, por eso necesito que me ayudes"
+  - text: Todo necesita un esfuerzo, solo quiero que mis esclavos entiendan eso.
     nextNode: {fileID: 11400000, guid: ee66876e745dd07469f8a3ed865da2e6, type: 2}
     x: 1
     y: 0
-  - text: "A diferencia de ti, no tengo el tiempo para preguntarme el porqu\xE9 de
-      los problemas, mi tiempo lo aprovecho en buscar soluciones"
+  - text: "Si busco conseguir mucho dinero, necesitar\xE9 pagarlo, es l\xF3gico."
     nextNode: {fileID: 11400000, guid: ee66876e745dd07469f8a3ed865da2e6, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

@@ -13,15 +13,18 @@ MonoBehaviour:
   m_Name: O01.3
   m_EditorClassIdentifier: 
   answers:
-  - text: "*coger prestado la guada\xF1a de jueguete*\r\n(x% de descuento para el
-      brebaje agricultor)"
+  - text: "*coger prestado la guada\xF1a de juguete*\r\n(descuento para el brebaje
+      agricultor)"
     nextNode: {fileID: 11400000, guid: d53d39aa824b42742a6299ce22dc6842, type: 2}
     x: 1
     y: 0
   - text: '*coger prestado el amuleto de cuervo*
 
-      (x% de descuento para el
-      hongo minero)'
+      (descuento para el hongo
+      minero)'
     nextNode: {fileID: 11400000, guid: d53d39aa824b42742a6299ce22dc6842, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

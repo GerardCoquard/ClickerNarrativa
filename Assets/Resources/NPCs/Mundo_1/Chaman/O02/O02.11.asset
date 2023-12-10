@@ -12,9 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O02.11
   m_EditorClassIdentifier: 
-  text: "Hmmmm... Interesante... Pues de hecho s\xED, gracias al panal puedo fabricar
-    m\xE1s f\xE1cilmente mis feromonas, por lo cual te puedo hacer un peque\xF1o
-    descuento por el regalo."
+  text: "Perfecto, m\xE1rchate en paz entonces."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

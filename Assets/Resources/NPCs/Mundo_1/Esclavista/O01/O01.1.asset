@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O01.1
   m_EditorClassIdentifier: 
-  text: "\xBFA que no adivinas a que se dedicaban?"
+  text: "\xBFA que no adivinas a qu\xE9 se dedicaban?"
   nextNode: {fileID: 11400000, guid: 8225d54a7b9b7174c9f54b276832e4f6, type: 2}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

@@ -13,13 +13,12 @@ MonoBehaviour:
   m_Name: D02.6
   m_EditorClassIdentifier: 
   answers:
-  - text: "No lo s\xE9... \xA1y me da igual! Seguro que tienes por ah\xED una p\xF3cima
-      para hacerlos m\xE1s sumisos o para que no les afecte el calor."
+  - text: "\xBFNo tienes alguna gotas de esas? \xBFPero que hagan que trabajen m\xE1s
+      duro?"
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "Dej\xE1ndote de desvar\xEDos, tu sabes de lo que eres capaz o no, no me
-      hagas desperdiciar mi tiempo."
+  - text: "\xBFAlg\xFAn remedio para que mis eslavos sean mas elocuentes?"
     nextNode: {fileID: 0}
     x: 0
     y: 1

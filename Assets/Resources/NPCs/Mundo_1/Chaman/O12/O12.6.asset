@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O12.6
   m_EditorClassIdentifier: 
-  text: 
+  text: "D\xE9jame verlo... Mhmmmm... S\xED... Creo que me puede valer. A camibo
+    te ofrezco este amuleto de cuervo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

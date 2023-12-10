@@ -13,13 +13,11 @@ MonoBehaviour:
   m_Name: D12.6
   m_EditorClassIdentifier: 
   answers:
-  - text: "\xBFMe est\xE1s invitando a darme un paseo por tu almac\xE9n? Espero que
-      haya algo que ponga \"para ver en la oscuridad\"."
+  - text: "\xBFNo tienes alguna seta de esas? Pero que haga que vayan m\xE1s rapido?"
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "Dej\xE1ndote de desvar\xEDos, tu sabes de lo que eres capaz o no, no me
-      hagas desperdiciar mi tiempo."
+  - text: "\xBFAlg\xFAn remedio para que mis eslavos sean m\xE1s elocuentes?"
     nextNode: {fileID: 0}
     x: 0
     y: 1

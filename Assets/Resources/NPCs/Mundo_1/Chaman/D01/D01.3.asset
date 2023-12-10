@@ -15,3 +15,5 @@ MonoBehaviour:
   text: "No hagas que me arrepienta Cham\xE1n. Necesito tu ayuda."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 548e529600d08414e8e6584a3fa30169, type: 2}
+  player: 1
+  narrador: 0

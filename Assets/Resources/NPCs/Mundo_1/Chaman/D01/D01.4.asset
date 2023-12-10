@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: D01.4
   m_EditorClassIdentifier: 
   answers:
-  - text: Estoy cerca de cumplir mi objetivo, pero se me acaba el tiempo.
+  - text: Mi trabajadores van muy lentos, me han dicho que puedes ayudarme.
     nextNode: {fileID: 11400000, guid: b86fba00a8772114eb2a5170981a765a, type: 2}
     x: 1
     y: 0
-  - text: "He o\xEDdo que hay cosas que solo t\xFA me puedes ofrecer, espero que
-      los rumores sean verdad."
+  - text: "Mis trabajadores no se esfuerzan, \xBFpodr\xEDas ayudarme?"
     nextNode: {fileID: 11400000, guid: b86fba00a8772114eb2a5170981a765a, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

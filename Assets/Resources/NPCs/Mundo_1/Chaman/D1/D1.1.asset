@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D1.1
   m_EditorClassIdentifier: 
-  text: "Necesito que mis esclavos en la mina sean capaces de picar hasta en la oscuridad
-    m\xE1s densa."
+  text: "Necesito que mis trabajadores se esfuercen m\xE1s."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 1

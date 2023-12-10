@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: O12.5
   m_EditorClassIdentifier: 
   text: "Hmmmm... Interesante... Pues de hecho s\xED, gracias a esto podre darte
-    un mejor precio"
+    un mejor precio en las feromonas."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

@@ -13,13 +13,11 @@ MonoBehaviour:
   m_Name: D01.8
   m_EditorClassIdentifier: 
   answers:
-  - text: "\xA1Mis esclavos en el campo! Se acerca el verano y creo que est\xE1n
-      organizando un mot\xEDn."
+  - text: Velocidad, eso es lo que pido.
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "Mis esclavos est\xE1n cada vez m\xE1s hondo en las minas, y la oscuridad
-      es tan densa que ni las velas pueden iluminar el camino."
+  - text: Esfuerzo, que los esclavos se esfuercen.
     nextNode: {fileID: 0}
     x: 0
     y: 1

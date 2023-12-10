@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: D02.6
   m_EditorClassIdentifier: 
   answers:
-  - text: Con unos esclavos mas podre trabajar la tierra con mas facilidad.
+  - text: "Con unos esclavos m\xE1s podr\xE9 trabajar la tierra con m\xE1s facilidad."
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: "Usar esclavos al publico me har\xE1 ver mas adinerado y causara buena
-      impresi\xF3n.  "
+  - text: "Usar esclavos al publico me har\xE1 ver m\xE1s adinerado y causar\xE1
+      buena impresi\xF3n.  "
     nextNode: {fileID: 0}
     x: 0
     y: 1

@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "\xBFTe est\xE1n sirviendo bien los esclavos? \xBFNecesitas mas? "
+  text: "\xBFTe est\xE1n sirviendo bien los esclavos? \xBFNecesitas m\xE1s? "
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 46169545878c0cb49be29929baf3422c, type: 2}
+  player: 0
+  narrador: 0

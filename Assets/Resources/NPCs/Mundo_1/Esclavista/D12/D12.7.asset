@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D12.7
   m_EditorClassIdentifier: 
-  text: "\xA1Claro que si! En ese caso, tus cultivos ser\xE1n mas productivos con
-    mis esclavos. \xA1Ya lo veras!\xA1Claro que si! En ese caso, tus cultivos ser\xE1n
-    mas productivos con mis esclavos. \xA1Ya lo veras!"
+  text: "\xA1Claro que s\xED! En ese caso, tus cultivos ser\xE1n mas productivos
+    con mis esclavos. \xA1Ya lo ver\xE1s!"
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

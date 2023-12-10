@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O12.2
   m_EditorClassIdentifier: 
-  text: "No, pero el otro d\xEDa vi a un muchacho que sal\xEDa corriendo de tu choza"
+  text: "No, pero el otro d\xEDa vi a un muchacho que sal\xEDa corriendo de tu choza."
   nextNode: {fileID: 11400000, guid: 16aa7cd475e4729438326129a0613f2c, type: 2}
   nextQuestion: {fileID: 0}
   player: 1

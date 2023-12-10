@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D12.7
   m_EditorClassIdentifier: 
-  text: "Tengo justo lo que necesitas. Este hongo crece en lo m\xE1s profundo del
-    bosque, sus propiedades hacen los humanos aguanten sin cansarse."
+  text: "Tengo justo lo que necesitas. Este perfume contiene feromonas de abeja,
+    las cu\xE1les facilitan la interacci\xF3n humana. Tus esclavos atraer\xE1n clientes
+    sin moverse del sitio."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

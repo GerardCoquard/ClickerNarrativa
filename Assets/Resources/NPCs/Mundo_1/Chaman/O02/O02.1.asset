@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: O02.1
   m_EditorClassIdentifier: 
   text: "\xBFEs verdad eso de que quieres abrir el portal en lo alto de la monta\xF1a?"
-  nextNode: {fileID: 11400000, guid: 9ab1e57e79d95694d9e261e37fd395cd, type: 2}
+  nextNode: {fileID: 11400000, guid: b65f72a24e2598c41a5137285248e69e, type: 2}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

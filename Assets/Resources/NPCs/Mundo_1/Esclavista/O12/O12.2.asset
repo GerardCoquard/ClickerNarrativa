@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: "Los fortachones que me has estado enviando son muy \xFAtiles y sin duda
-      voy a necesitar mas."
+      voy a necesitar m\xE1s."
     nextNode: {fileID: 11400000, guid: 7c62031985623994c9e844fd0e5f0c15, type: 2}
     x: 1
     y: 0
@@ -23,3 +23,6 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 7c62031985623994c9e844fd0e5f0c15, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

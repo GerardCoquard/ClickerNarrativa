@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: O02.2
   m_EditorClassIdentifier: 
   text: "Sin duda esta relaci\xF3n a sido provechosa para los dos \xBFQu\xE9 necesitas?
-    \xA1Tu solo n\xF3mbralo!"
+    \xA1T\xFA habla, que yo otorgo!"
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 53447d8caa6d8c545b4984828cba765c, type: 2}
+  player: 0
+  narrador: 0

@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: D0.1
   m_EditorClassIdentifier: 
-  text: Necesito que mis esclavos granjeros se calmen y que puedan trabajar en el
-    campo sin que les afecte el sol.
+  text: "Necesito que mis trabajadores vayan m\xE1s r\xE1pido."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 1

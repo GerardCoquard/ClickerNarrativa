@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: D02.2
   m_EditorClassIdentifier: 
   answers:
-  - text: "Mis hombres han organizado un mot\xEDn y no s\xE9 como pararlo"
+  - text: "Las setas han sido muy \xFAtiles, trabajan r\xE1pido, pero no se esfuerzan."
     nextNode: {fileID: 11400000, guid: c52f1dbbb4318c241bfbc54349292a97, type: 2}
     x: 1
     y: 0
-  - text: "\xDAltimamente el negocio del comercio no me va tan bien, y mis esclavos
-      no est\xE1n siendo de ayuda para ello"
+  - text: Tus setas no sirven de nada para mis comerciantes.
     nextNode: {fileID: 11400000, guid: c52f1dbbb4318c241bfbc54349292a97, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}
