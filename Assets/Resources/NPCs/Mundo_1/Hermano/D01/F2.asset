@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F2
   m_EditorClassIdentifier: 
-  text: "Pas\xE9 alg\xFAn tiempo en las minas, se de algunas t\xE9cnicas para hallar
-    hierro, cuando quieras puedo ense\xF1artelas."
+  text: "Pas\xE9 alg\xFAn tiempo en las minas, s\xE9 de algunas t\xE9cnicas para
+    hallar hierro, cuando quieras puedo ense\xF1artelas."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

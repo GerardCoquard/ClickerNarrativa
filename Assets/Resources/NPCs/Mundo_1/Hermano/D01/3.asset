@@ -17,7 +17,10 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 25de69abb04e36d4eaba95f0cbc7984d, type: 2}
     x: 1
     y: 0
-  - text: Debo obtener muchas Diuras, trabajare muy duro por ello.
+  - text: "Debo obtener muchas Diuras, trabajar\xE9 muy duro por ello."
     nextNode: {fileID: 11400000, guid: 25de69abb04e36d4eaba95f0cbc7984d, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

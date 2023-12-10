@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: Lo importante es que me puedo organizar para trabajar en el campo y la
-      mina
+      mina.
     nextNode: {fileID: 11400000, guid: c04dca349ec842b4d86267c62b0edc3f, type: 2}
     x: 1
     y: 0
-  - text: Descansare mientras viajo a otros pueblos para hacer negocios.
+  - text: "Descansar\xE9 mientras viajo a otros pueblos para hacer negocios."
     nextNode: {fileID: 11400000, guid: c04dca349ec842b4d86267c62b0edc3f, type: 2}
     x: 0
     y: 1

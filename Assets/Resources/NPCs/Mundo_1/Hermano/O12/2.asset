@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   answers:
-  - text: "La mina es mi especialidad, usar\xE9 la mina para mi y mis esclavos."
+  - text: "La mina es mi especialidad, usar\xE9 la mina para m\xED y mis esclavos."
     nextNode: {fileID: 0}
     x: 1
     y: 0

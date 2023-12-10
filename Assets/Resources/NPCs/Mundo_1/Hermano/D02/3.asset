@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Pero \xBFest\xE1s descansando?"
+  text: "Pero, \xBFest\xE1s descansando?"
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 06c16e7f2a0c1854cbfbbaa3aeb3bd76, type: 2}
+  player: 0
+  narrador: 0

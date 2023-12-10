@@ -17,7 +17,8 @@ MonoBehaviour:
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: No eran una familia poderosa? Tal vez ahora pueda hacer negocios con ellos.
+  - text: "\xBFNo era una familia poderosa? Tal vez ahora pueda hacer negocios con
+      ellos."
     nextNode: {fileID: 0}
     x: 0
     y: 1
