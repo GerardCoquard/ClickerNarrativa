@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 8
   m_EditorClassIdentifier: 
   text: "Las hojas vuelven a su forma normal, y t\xFA, en vez de creer\r\nque te
-    has vuelto loco, te sientes determinado. Jam\xE1s hab\xEDas\r\ntenido tantas
+    has vuelto loco, te sientes determinado.  Jam\xE1s hab\xEDas\r\ntenido tantas
     ganas de hacer algo."
   nextNode: {fileID: 11400000, guid: be01c988f7840474ab4ef2cfc21ae4d8, type: 2}
   nextQuestion: {fileID: 0}

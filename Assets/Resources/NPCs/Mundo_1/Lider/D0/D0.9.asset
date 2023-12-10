@@ -13,12 +13,15 @@ MonoBehaviour:
   m_Name: D0.9
   m_EditorClassIdentifier: 
   answers:
-  - text: Es una gran idea, estoy muy agradecido por su ayuda, te pagare en cuanto
-      pueda.
+  - text: "Es una gran idea, estoy muy agradecido por su ayuda, te pagar\xE9 en cuanto
+      pueda."
     nextNode: {fileID: 11400000, guid: 823017640d30992408eeab1a2039430a, type: 2}
     x: 0
     y: 0
-  - text: "Realmente ya no se donde mas guardar mis Diuras, as\xED que me lo pensare."
+  - text: "Realmente ya no se donde m\xE1s guardar mis Diuras, as\xED que me lo pensar\xE9."
     nextNode: {fileID: 11400000, guid: 823017640d30992408eeab1a2039430a, type: 2}
     x: 0
     y: 0
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

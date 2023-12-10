@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   text: Un calor inmenso invade tu cuerpo; al otro lado del portal, ves un mundo
-    igual al anntiguo valle, pero todo rojizo y repleto de lava.
+    igual al antiguo valle, pero todo rojizo y repleto de lava.
   nextNode: {fileID: 11400000, guid: 6843fbb03e3bca040bcd74e43bd5b73f, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

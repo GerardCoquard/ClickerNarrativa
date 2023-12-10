@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 4
   m_EditorClassIdentifier: 
   answers:
-  - text: "Quiero ser emprendedor Abararban, quiero poder tener riquezas cu\xE1nto
-      antes mejor, y as\xED tener una vida digna."
+  - text: "Quiero ser emprendedor Abararban, quiero poder tener riquezas cuanto antes
+      mejor, y as\xED tener una vida digna."
     nextNode: {fileID: 11400000, guid: 4e4f59386ce932941bde6bc3e131e304, type: 2}
     x: 1
     y: 0
@@ -23,3 +23,6 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 4e4f59386ce932941bde6bc3e131e304, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

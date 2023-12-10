@@ -14,11 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: "O gran L\xEDder, es un honor recibir tu invitaci\xF3n, \xBFque requiere
-      de mi?"
+      de m\xED?"
     nextNode: {fileID: 11400000, guid: 5cb9af9f5f709114b93f42512f9c4c01, type: 2}
     x: 0
     y: 0
-  - text: "Vayamos al grano, \xBFque quiere de mi?"
+  - text: "Vayamos al grano, \xBFque quiere de m\xED?"
     nextNode: {fileID: 11400000, guid: ccb669cfb59d3ed4d8dfb5388176e172, type: 2}
     x: 0
     y: 0
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

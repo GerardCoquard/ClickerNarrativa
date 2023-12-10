@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 12
   m_EditorClassIdentifier: 
-  text: "Te dar\xE9 unos artefactos que te ayudar\xE1n a purificar alams, eliminar
+  text: "Te dar\xE9 unos artefactos que te ayudar\xE1n a purificar almas, eliminar
     sus pecados o redimirlas. Cuando consigas el bill\xF3n, vuelve al portal y lo
     abrir\xE9 para ti."
   nextNode: {fileID: 0}

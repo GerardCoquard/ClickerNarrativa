@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 0
   m_EditorClassIdentifier: 
   text: El objetivo se ha cumplido, has conseguido las 1B <sprite index=0>, las has
-    reunido todasa y las has transportado junto al portal.
+    reunido todas y las has transportado junto al portal.
   nextNode: {fileID: 11400000, guid: a442ec8f8e3ca51479bbcdc30b85051a, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Te encuentras en el peregrinaje anual, has subido a la\r\nmonta\xF1a con
-    tu grupo. "
+  text: "Te encuentras en el peregrinaje anual, has subido a la\r \nmonta\xF1a con
+    tu grupo."
   nextNode: {fileID: 11400000, guid: 609597329f29c0e45aa2b1292cc2ddd6, type: 2}
   nextQuestion: {fileID: 0}
   player: 0
