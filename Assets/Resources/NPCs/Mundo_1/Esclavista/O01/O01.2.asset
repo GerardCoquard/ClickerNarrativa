@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: O01.2
   m_EditorClassIdentifier: 
-  text: ...Hace un gesto con la mano, como esperando que tu decidas su destino...
+  text: "Hace un gesto con la mano, como esperando que t\xFA decidas su destino."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 23ae457329008b1468ce44489d56b165, type: 2}
+  player: 0
+  narrador: 1
