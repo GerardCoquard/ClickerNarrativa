@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  text: "Te dispones a abandonar el antiguo portal cuando una voz\r\nresuena en tu
+    cabeza, y frente a ti, las hojas de los\r\n\xE1rboles forman la figura de un
+    rostro."
+  nextNode: {fileID: 11400000, guid: 7e26c9088705e764cb17bc99f6118bf7, type: 2}
+  nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 1
