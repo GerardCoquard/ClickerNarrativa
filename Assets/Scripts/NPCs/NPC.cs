@@ -31,7 +31,7 @@ public class NPC : MonoBehaviour
         offers[upgrade]++;
         RefreshShop();
     }
-    public void Unblock(int upgrade)
+    public virtual void Unblock(int upgrade)
     {
         unblockeds[upgrade] = true;
         RefreshShop();
