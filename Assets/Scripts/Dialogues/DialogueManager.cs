@@ -209,21 +209,9 @@ public class DialogueManager : MonoBehaviour
     }
     string SetText(string oldText)
     {
-        string currency = "";
-        switch (GameManager.instance.currentPhase)
-        {
-            case 0: currency = "Diuras";
-            break;
-
-            case 1: currency = "Almas";
-            break;
-
-            case 2: currency = "Eter";
-            break;
-            default:
-            break;
-        }
-        return  oldText.Replace(currency,Utilities.ToCurrencyType(""));
+        string newText = oldText.Replace("Diuras","<sprite index=0>");
+        newText = newText.Replace("Almas","<sprite index=1>");
+        return  newText.Replace("Eter","<sprite index=2>");
     }
     void SetSpeaker()
     {
