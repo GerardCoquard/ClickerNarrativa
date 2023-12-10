@@ -9,10 +9,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
+  m_Script: {fileID: 11500000, guid: bb0cb9e7a84b250448a875259348e56c, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  text: "\xBFDe veras? Mis m\xE1s sinceras disculpas compa\xF1ero, a modo de compensaci\xF3n
-    te las volver\xE9 a forjar a un precio rebajado."
-  nextNode: {fileID: 11400000, guid: 0ab5db407ae82384dae34ed72e9ea724, type: 2}
-  nextQuestion: {fileID: 0}
+  answers:
+  - text: "Abararban, las hoces que me fabricaste no est\xE1n funcionando como es
+      debido, necesito que las reemplazes cuanto antes."
+    nextNode: {fileID: 0}
+    x: 1
+    y: 0
+  - text: Las ruedas que me fabricaste... algo les pasa, necesito que me hagas otras.
+    nextNode: {fileID: 0}
+    x: 0
+    y: 1
+  finalQuestion: 1
+  xNode: {fileID: 11400000, guid: d272ec8818076e04c87ce1fbfaa9d05a, type: 2}
+  yNode: {fileID: 11400000, guid: d272ec8818076e04c87ce1fbfaa9d05a, type: 2}
