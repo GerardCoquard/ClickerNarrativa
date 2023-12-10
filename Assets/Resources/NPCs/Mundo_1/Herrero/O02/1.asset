@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: 
+  text: No parece estar trabajando, parece que de tanto dinero que ha perdido, ha
+    perdido el apetito por trabajar.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0
-  narrador: 0
+  narrador: 1

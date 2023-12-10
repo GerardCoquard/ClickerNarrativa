@@ -15,6 +15,6 @@ MonoBehaviour:
   text: "No te preocupes si lo que quieres es m\xE1s eficacia te ense\xF1ar\xE9 como
     mejorar otras formas de redenci\xF3n."
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 0}
+  nextQuestion: {fileID: 11400000, guid: f5c957191868b664aa7439f8aa0cdd95, type: 2}
   player: 0
   narrador: 0

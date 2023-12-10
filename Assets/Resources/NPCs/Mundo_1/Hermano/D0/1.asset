@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "Te ense\xF1ar\xE9 algunos trucos con la hoz, para que puedas recoger mas
+  text: "Te ense\xF1ar\xE9 algunos trucos con la hoz, para que puedas recoger m\xE1s
     trigo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

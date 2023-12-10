@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   text: "\xA1Los dioses me han unido con una Mujer! Con la hija de la familia Beles,
-    \xA1hermano que feliz soy!"
+    \xA1hermano, qu\xE9 feliz soy!"
   nextNode: {fileID: 11400000, guid: 78f5cb0dd85fb0e4a998b89bdfec336b, type: 2}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

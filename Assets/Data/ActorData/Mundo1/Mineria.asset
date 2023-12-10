@@ -18,5 +18,5 @@ MonoBehaviour:
   autoBarTime: 15
   autoBarLimitTime: 1
   mainBarLimitTime: 1
-  actorName: Mineria
+  actorName: "Miner\xEDa"
   actorIcon: {fileID: 21300000, guid: 35e7f0cbba7a6b04884bc60f78c0968d, type: 3}

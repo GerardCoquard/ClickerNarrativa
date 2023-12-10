@@ -17,7 +17,10 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: c0f7b3d8cb003e742a4d600595aa743a, type: 2}
     x: 1
     y: 0
-  - text: Descansare mientras viajo a otros pueblos para hacer negocios.
+  - text: "Descansar\xE9 mientras viajo a otros pueblos para hacer negocios."
     nextNode: {fileID: 11400000, guid: c0f7b3d8cb003e742a4d600595aa743a, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

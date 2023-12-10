@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: Bien bien, pero tampoco quiero bajar el ritmo.
-    nextNode: {fileID: 0}
+    nextNode: {fileID: 11400000, guid: 673dfae93ecf7014ba4ce3fb4aee65af, type: 2}
     x: 0
     y: 0
   - text: "No va mal pero me gustara bajar un poco el ritmo con algo que diese m\xE1s
       almas."
-    nextNode: {fileID: 0}
+    nextNode: {fileID: 11400000, guid: 673dfae93ecf7014ba4ce3fb4aee65af, type: 2}
     x: 0
     y: 0
   finalQuestion: 0

@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: "He conseguido mucho hierro, tal vez deber\xEDa complementarme para hacer
-      trabajos mas f\xE1ciles."
+      trabajos m\xE1s f\xE1ciles."
     nextNode: {fileID: 11400000, guid: 3c33c6adfdd2fe4478486171a6259b7d, type: 2}
     x: 1
     y: 0
-  - text: "Lo se, el esfuerzo vali\xF3 la pena, pero ahora estoy centrado en ganar
+  - text: "Lo s\xE9, el esfuerzo vali\xF3 la pena, pero ahora estoy centrado en ganar
       grandes cantidades."
     nextNode: {fileID: 11400000, guid: 3c33c6adfdd2fe4478486171a6259b7d, type: 2}
     x: 0
     y: 1
+  finalQuestion: 0
+  xNode: {fileID: 0}
+  yNode: {fileID: 0}

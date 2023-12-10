@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: F1
   m_EditorClassIdentifier: 
   text: "Tengo cierta experiencia en la agricultura, podr\xEDa ense\xF1arte a usar
-    bien la hoz, de esa manera podr\xE1s conseguir mas trigo."
+    bien la hoz, de esa manera podr\xE1s conseguir m\xE1s trigo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

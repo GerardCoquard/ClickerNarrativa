@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "He estado pensando, y me gusta verte por primera vez tan metido en algo,
+  text: "He estado pensando... y me gusta verte por primera vez tan metido en algo,
     te ayudar\xE9 en lo que pueda."
   nextNode: {fileID: 11400000, guid: 294f5e8842a3e4543aebbc9e6f58d99d, type: 2}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

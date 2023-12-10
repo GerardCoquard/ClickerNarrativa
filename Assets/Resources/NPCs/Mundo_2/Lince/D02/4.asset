@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   answers:
   - text: "Sabias palabras, estoy motivado a redimir lo m\xE1s r\xE1pido posible."
-    nextNode: {fileID: 0}
+    nextNode: {fileID: 11400000, guid: 5f001f23728446740a393129640188a7, type: 2}
     x: 1
     y: 0
   - text: "Supongo que tienes raz\xF3n, e ir m\xE1s r\xE1pido no siempre significa
       acabar antes."
-    nextNode: {fileID: 0}
+    nextNode: {fileID: 11400000, guid: 5f001f23728446740a393129640188a7, type: 2}
     x: 0
     y: 1
   finalQuestion: 0

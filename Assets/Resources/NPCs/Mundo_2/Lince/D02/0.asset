@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "\xBFC\xF3mo van las redenciones?"
   nextNode: {fileID: 0}
-  nextQuestion: {fileID: 0}
+  nextQuestion: {fileID: 11400000, guid: 0c498523b2d23e645aaad96bbd15177b, type: 2}
   player: 0
   narrador: 0

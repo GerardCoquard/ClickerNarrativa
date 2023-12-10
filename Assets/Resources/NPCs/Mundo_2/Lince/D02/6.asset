@@ -23,5 +23,5 @@ MonoBehaviour:
     x: 0
     y: 1
   finalQuestion: 1
-  xNode: {fileID: 0}
-  yNode: {fileID: 0}
+  xNode: {fileID: 11400000, guid: 2fad530d06a806b4f9701a28d69a29b8, type: 2}
+  yNode: {fileID: 11400000, guid: bb042aa821a26de4ebcfb00cdb53f490, type: 2}

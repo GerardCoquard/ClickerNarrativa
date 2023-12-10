@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   text: "Est\xE1s consiguiendo buenos resultados, pero siempre se puede mejorar."
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: 5892cea3829c28f4d9ed85ac2f59a3e2, type: 2}
   nextQuestion: {fileID: 0}
   player: 0
   narrador: 0
