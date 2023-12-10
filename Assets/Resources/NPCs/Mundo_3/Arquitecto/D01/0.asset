@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Quien eres tu? A si si, el nuevo, llegaste aqu\xED desde la vig\xE9simo
-    segunda apertura del portal, me equivoco? "
+  text: "\xBFQuien eres tu? A s\xED s\xED, el nuevo, llegaste aqu\xED desde la vig\xE9simo
+    segunda apertura del portal, me equivoco?"
   nextNode: {fileID: 11400000, guid: 10efe39e41c70a74dae52ef6c5cf2561, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

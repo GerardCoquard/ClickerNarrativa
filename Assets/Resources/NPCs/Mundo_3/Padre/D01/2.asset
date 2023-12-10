@@ -18,8 +18,8 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 6b0796ae0c4a2f04da30e0e07b9a6f80, type: 2}
     x: 0
     y: 0
-  - text: Se que de momento no tengo mucho poder, pero me esforzare para ser una
-      divinidad poderosa.
+  - text: "Se que de momento no tengo mucho poder, pero me esforzar\xE9 para ser
+      una divinidad poderosa."
     nextNode: {fileID: 11400000, guid: 6b0796ae0c4a2f04da30e0e07b9a6f80, type: 2}
     x: 0
     y: 0

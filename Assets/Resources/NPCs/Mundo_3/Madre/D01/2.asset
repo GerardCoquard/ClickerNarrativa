@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  text: "Aun as\xED, intentare ense\xF1arte m\xE9todos para que nos consigas \xE9ter
-    mas r\xE1pido."
+  text: "Aun as\xED, intentare ense\xF1arte m\xE9todos para que nos consigas \xC9ter
+    m\xE1s r\xE1pido."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: a072c7fe44d3f7b43b6c6f57042047a9, type: 2}
   player: 0

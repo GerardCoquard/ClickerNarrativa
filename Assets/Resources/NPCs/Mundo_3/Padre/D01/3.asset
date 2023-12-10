@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   text: "Yo estar\xE9 a tu lado en todo el proceso, sea cual sea tu decisi\xF3n te
-    acompa\xF1areYo estar\xE9 a tu lado en todo el proceso, sea cual sea tu decisi\xF3n
-    te acompa\xF1are."
+    acompa\xF1ar\xE9."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

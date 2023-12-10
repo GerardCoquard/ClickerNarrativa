@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "As\xED que se te a otorgado poder divino y te han encargado de la recolecci\xF3n
+  text: "\xBFAs\xED que se te ha otorgado poder divino y te han encargado de la recolecci\xF3n
     de \xE9ter?"
   nextNode: {fileID: 11400000, guid: 897ff94b279ca6b4d8cf98eeb5ae02e1, type: 2}
   nextQuestion: {fileID: 0}

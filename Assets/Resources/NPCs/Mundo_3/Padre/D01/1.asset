@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "Hay distintas maneras de obtener \xE9ter, yo te ensa\xF1ar\xE9 todos los
+  text: "Hay distintas maneras de obtener \xC9ter, yo te ensa\xF1ar\xE9 todos los
     m\xE9todos y como aumentar tu poder para hacerlo mejor."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: ea5c0a63e769b444c826147426a8629c, type: 2}

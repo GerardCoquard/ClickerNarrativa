@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   answers:
-  - text: "Entiendo tu desconfianza, pero yo conf\xEDo en mi mismo y quiero vivir
+  - text: "Entiendo tu desconfianza, pero yo conf\xEDo en m\xED mismo y quiero vivir
       aqu\xED tranquilo."
     nextNode: {fileID: 11400000, guid: d3d27e2b90768d14c8ffbcb239a478ba, type: 2}
     x: 0
     y: 0
-  - text: Te agradezco por los conocimientos que me puedes dar, no te molestare mas
-      si es lo que quieres.
+  - text: "Te agradezco por los conocimientos que me puedes dar, no te molestar\xE9
+      m\xE1s si es lo que quieres."
     nextNode: {fileID: 11400000, guid: d3d27e2b90768d14c8ffbcb239a478ba, type: 2}
     x: 0
     y: 0

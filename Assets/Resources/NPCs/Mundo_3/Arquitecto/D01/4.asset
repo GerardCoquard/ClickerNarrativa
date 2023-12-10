@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 4
   m_EditorClassIdentifier: 
-  text: "Perd\xF3n? Lo siento debo hacer unas cosas, si quieres esp\xEDritus contacta
-    conmigo."
+  text: "\xBFPerd\xF3n? Lo siento debo hacer unas cosas, si quieres esp\xEDritus
+    contacta conmigo."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

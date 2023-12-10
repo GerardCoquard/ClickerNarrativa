@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: Una nueva divinidad en la familia, me han dicho que por tu culpa el valle
-    se arruino.
+  text: "Una nueva divinidad en la familia, me han dicho que por tu culpa el Valle
+    se arruin\xF3."
   nextNode: {fileID: 11400000, guid: db55cd21c451323468451e8fc40f4df1, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  text: "Bueno ya sabes como funcionas esto, en este mar hay mucha magia, potenciare
-    a los esp\xEDritus que te ayudan con el eter."
+  text: "Bueno ya sabes como funciona esto, en este mar hay mucha magia, potenciar\xE9
+    a los esp\xEDritus que te ayudan con el \xC9ter."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 6920cdf71d76cb540afaefd2188120c9, type: 2}
   player: 0

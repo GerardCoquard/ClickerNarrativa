@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 4
   m_EditorClassIdentifier: 
   text: "Parece que has llegado al final del camino, aun as\xED estar\xE9 aqu\xED
-    contigo, para lo que necesites"
+    contigo, para lo que necesites."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0
