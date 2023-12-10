@@ -12,13 +12,14 @@ public class UnblockAll : MonoBehaviour
     private void Update() {
         if(activated) return;
 
-        if(npc.unblockeds[0] == true)
+        if(npc.unblockeds[0] == true || npc.unblockeds[1] == true)
         {
             activated = true;
             for (int i = 0; i < npc.unblockeds.Length; i++)
             {
                 npc.unblockeds[i] = true;
             }
+            npc.RefreshShop();
         }
     }
 }
