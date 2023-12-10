@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9316b6617bd2b449dfc384a61f73a4, type: 3}
   m_Name: Forjar Redenciones
   m_EditorClassIdentifier: 
-  mainBarAmount: 10
+  mainBarAmount: 200
   mainBarTime: 50
   actorAmount: 0
   autoBarTime: 100
