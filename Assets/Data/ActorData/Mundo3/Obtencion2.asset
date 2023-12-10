@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9316b6617bd2b449dfc384a61f73a4, type: 3}
   m_Name: Obtencion2
   m_EditorClassIdentifier: 
-  mainBarAmount: 10
-  mainBarTime: 2
-  actorAmount: 5
-  autoBarTime: 4
+  mainBarAmount: 40
+  mainBarTime: 12.5
+  actorAmount: 1
+  autoBarTime: 15
   autoBarLimitTime: 1
   mainBarLimitTime: 1
-  actorName: Obtencion2
+  actorName: Emaitza
   actorIcon: {fileID: 21300000, guid: fe18b4310f5144a40a2bd59b4bb999dd, type: 3}

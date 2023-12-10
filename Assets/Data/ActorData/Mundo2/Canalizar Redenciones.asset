@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Canalizar Redenciones
   m_EditorClassIdentifier: 
   mainBarAmount: 10
-  mainBarTime: 2
-  actorAmount: 5
-  autoBarTime: 4
-  autoBarLimitTime: 1
-  mainBarLimitTime: 1
+  mainBarTime: 2.5
+  actorAmount: 0
+  autoBarTime: 3
+  autoBarLimitTime: 0.2
+  mainBarLimitTime: 0.2
   actorName: Canalizador
   actorIcon: {fileID: 21300000, guid: f8f058709692d7545bff97197020f094, type: 3}

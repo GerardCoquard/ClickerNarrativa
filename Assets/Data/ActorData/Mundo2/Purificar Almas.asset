@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9316b6617bd2b449dfc384a61f73a4, type: 3}
   m_Name: Purificar Almas
   m_EditorClassIdentifier: 
-  mainBarAmount: 30
-  mainBarTime: 1
-  actorAmount: 1
-  autoBarTime: 2
+  mainBarAmount: 40
+  mainBarTime: 12.5
+  actorAmount: 0
+  autoBarTime: 15
   autoBarLimitTime: 0.2
   mainBarLimitTime: 0.2
   actorName: Purificador

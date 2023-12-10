@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9316b6617bd2b449dfc384a61f73a4, type: 3}
   m_Name: Obtencion3
   m_EditorClassIdentifier: 
-  mainBarAmount: 30
-  mainBarTime: 1
+  mainBarAmount: 200
+  mainBarTime: 50
   actorAmount: 1
-  autoBarTime: 2
+  autoBarTime: 100
   autoBarLimitTime: 0.2
   mainBarLimitTime: 0.2
-  actorName: Obtencion3
+  actorName: Hamar
   actorIcon: {fileID: 21300000, guid: 201ba80bddcdb3f4abb12fb8c4dc1425, type: 3}
