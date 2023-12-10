@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: Su cara esta cambiada, parece mucho mas calmada y pensativa.
+  text: "Su cara esta cambiada, parece mucho m\xE1s calmada y pensativa."
   nextNode: {fileID: 11400000, guid: 1ecc813197bde994f9223778b12cb00d, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   answers:
-  - text: "Mis trabajadores son eficientes, pero tambi\xE9n me gastar\xEDa que fueran
+  - text: "Mis trabajadores son eficientes, pero tambi\xE9n me gustar\xEDa que fueran
       m\xE1s r\xE1pidos."
     nextNode: {fileID: 11400000, guid: 3b3ec8a99a8db0948bf068a51998b1bb, type: 2}
     x: 1

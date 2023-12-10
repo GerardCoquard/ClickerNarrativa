@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Desde que llegaste aqu\xED empiezo a recaudar recuerdos."
+  text: "Desde que llegaste aqu\xED empiezo a recordar."
   nextNode: {fileID: 11400000, guid: 4c4171a41a04f864493b236aabc1b3bb, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

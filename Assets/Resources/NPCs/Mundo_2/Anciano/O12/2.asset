@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   answers:
-  - text: "Me gastar\xEDa purgar almas m\xE1s r\xE1pido."
+  - text: "Me gustar\xEDa purgar almas m\xE1s r\xE1pido."
     nextNode: {fileID: 0}
     x: 1
     y: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F 1
   m_EditorClassIdentifier: 
-  text: "No se diga m\xE1s, te ense\xF1ar\xE9 como mejorar cuando canalizas almas,
-    as\xED ser\xE1s r\xE1pido."
+  text: "No se diga m\xE1s, te ense\xF1ar\xE9 como mejorar la canalizaci\xF3n de
+    almas, as\xED ser\xE1s r\xE1pido."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

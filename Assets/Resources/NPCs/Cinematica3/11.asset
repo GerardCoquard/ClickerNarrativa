@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 11
   m_EditorClassIdentifier: 
-  text: Gracias, padre. Juro trabajar por usted y por el mundo. Al fin y al cabo,
+  text: Gracias, Padre. Juro trabajar por usted y por el mundo. Al fin y al cabo,
     es lo que mejor se me da.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Saludos cordiales, soy Saitabi el Bravo, acompa\xF1ado de el representante
+  text: "Saludos cordiales, soy Saitabi el Bravo, acompa\xF1ado del representante
     de la familia Beles."
   nextNode: {fileID: 11400000, guid: a05e59fe2dffdaa42a922ae38eaedc03, type: 2}
   nextQuestion: {fileID: 0}
+  player: 0
+  narrador: 0

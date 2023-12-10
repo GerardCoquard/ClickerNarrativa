@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   answers:
-  - text: "\xBFY quien se supone que sea usted?"
+  - text: "\xBFY qui\xE9n se supone que sea usted?"
     nextNode: {fileID: 11400000, guid: dde196f521b438141bccb450168a6022, type: 2}
     x: 0
     y: 0

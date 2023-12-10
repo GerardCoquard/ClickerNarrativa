@@ -17,8 +17,8 @@ MonoBehaviour:
     nextNode: {fileID: 0}
     x: 0
     y: 0
-  - text: "No va mal pero me gustara bajar un poco el ritmo con algo que diese m\xE1s
-      almas."
+  - text: "No va mal pero me gustar\xEDa bajar un poco el ritmo con algo que diese
+      m\xE1s almas."
     nextNode: {fileID: 0}
     x: 0
     y: 0

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: Tengo planeado otro viaje a tierras olvidadas.
+  text: Tengo planeado otro viaje a las tierras olvidadas.
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 46521a7e0c5cc45448d04fc3b4e12d9c, type: 2}
   player: 0

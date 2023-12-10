@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Pero aun as\xED, \xBFpuedo ayudarte con mis conocimientos?"
+  text: "Pero a\xFAn as\xED, \xBFpuedo ayudarte con mis conocimientos?"
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: cb47b6d4112f2c44f9b60e0c4c8b317f, type: 2}
   player: 0

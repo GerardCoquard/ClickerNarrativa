@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 6
   m_EditorClassIdentifier: 
   answers:
-  - text: "Ser\xE1n una gran ayuda, y as\xED me podre dedicar a cosas mas importantes,
+  - text: "Ser\xE1n una gran ayuda, y as\xED me podre dedicar a cosas m\xE1s importantes,
       gracias."
     nextNode: {fileID: 0}
     x: 1

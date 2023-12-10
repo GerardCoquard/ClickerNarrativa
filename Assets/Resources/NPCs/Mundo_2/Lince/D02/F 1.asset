@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F 1
   m_EditorClassIdentifier: 
-  text: 
+  text: "Muy bien, te ense\xF1ar\xE9 a canalizar almas de forma m\xE1s r\xE1pida."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

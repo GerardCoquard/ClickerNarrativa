@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   text: "No te hab\xEDas dado cuenta, pero con el tiempo, esa figura vieja hab\xEDa
-    recobrado fuerzas, su movimiento era gr\xE1cil y no caracter\xEDstico de una
-    anciano."
+    recobrado fuerzas, su movimiento era gr\xE1cil y no caracter\xEDstico de un anciano."
   nextNode: {fileID: 11400000, guid: 8635999c6b8505e4795eb6a8c3f5901f, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

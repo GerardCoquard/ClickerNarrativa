@@ -17,7 +17,7 @@ MonoBehaviour:
     nextNode: {fileID: 0}
     x: 1
     y: 0
-  - text: Forjar almas es lo mas rentable a largo plazo.
+  - text: "Forjar almas es lo m\xE1s rentable a largo plazo."
     nextNode: {fileID: 0}
     x: 0
     y: 1

@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   answers:
-  - text: Necesito ayuda purgando, es un trabajo duro, pero me serian de gran ayuda.
+  - text: "Necesito ayuda purgando, es un trabajo duro, pero me ser\xEDan de gran
+      ayuda."
     nextNode: {fileID: 0}
     x: 1
     y: 0

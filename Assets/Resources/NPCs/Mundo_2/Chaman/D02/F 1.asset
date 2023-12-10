@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: F 1
   m_EditorClassIdentifier: 
-  text: "Existen unas rocas mas all\xE1 del valle, el simple aroma acelera a los
+  text: "Existen unas rocas m\xE1s all\xE1 del valle, el simple aroma acelera a los
     esp\xEDritus."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}

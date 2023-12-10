@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "Aquella criatura ha crecido en tama\xF1o, se le ve mas musculosa y imponente."
+  text: "Aquella criatura ha crecido en tama\xF1o, se le ve m\xE1s musculosa y imponente."
   nextNode: {fileID: 11400000, guid: dff9e2a3c8ce6c0468dd49fa8513ff87, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

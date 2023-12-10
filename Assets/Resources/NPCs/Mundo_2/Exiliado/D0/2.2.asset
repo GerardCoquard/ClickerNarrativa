@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 2.2
   m_EditorClassIdentifier: 
-  text: "Claro! no me he presentado soy \"El Exiliado\", el primer habitante del
-    mundo de los muertos y quer\xEDa decirte..."
+  text: "\xA1Claro! no me he presentado soy \"El Exiliado\", el primer habitante
+    del mundo de los muertos y quer\xEDa decirte..."
   nextNode: {fileID: 11400000, guid: a089db123eaf611408b8c33c79889fe3, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

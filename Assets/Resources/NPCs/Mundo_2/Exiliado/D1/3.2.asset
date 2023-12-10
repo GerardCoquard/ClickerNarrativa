@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3.2
   m_EditorClassIdentifier: 
-  text: "Ya lo veo, estas resultando muy \xFAtil, \xBFno querr\xEDas tomar mi puesto?"
+  text: "Ya lo veo, est\xE1s resultando muy \xFAtil, \xBFno querr\xEDas tomar mi
+    puesto?"
   nextNode: {fileID: 11400000, guid: 1ed228f550ff3bc4ab89bb0c384c5556, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

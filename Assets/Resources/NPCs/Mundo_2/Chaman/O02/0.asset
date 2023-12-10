@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Desde que est\xE1s teniendo existo en tu objetivo se me acercan espiritus
+  text: "Desde que est\xE1s teniendo \xE9xito en tu objetivo se me acercan esp\xEDritus
     para ayudarme en lo que quiera."
   nextNode: {fileID: 11400000, guid: c0799b313ea35d5448c09fb329de2fca, type: 2}
   nextQuestion: {fileID: 0}

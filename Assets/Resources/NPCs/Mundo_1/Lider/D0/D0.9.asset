@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: D0.9
   m_EditorClassIdentifier: 
   answers:
-  - text: "Es una gran idea, estoy muy agradecido por su ayuda, te pagar\xE9 en cuanto
+  - text: "Es una gran idea, estoy muy agradecido por su ayuda, le pagar\xE9 en cuanto
       pueda."
     nextNode: {fileID: 11400000, guid: 823017640d30992408eeab1a2039430a, type: 2}
     x: 0

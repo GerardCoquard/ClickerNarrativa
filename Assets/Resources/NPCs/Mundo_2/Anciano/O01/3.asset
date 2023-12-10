@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  text: "Aplicare el ung\xFCento, ya veras como podr\xE1s acelerar el proceso."
+  text: "Aplicare el ung\xFCento, ya ver\xE1s como podr\xE1s acelerar el proceso."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

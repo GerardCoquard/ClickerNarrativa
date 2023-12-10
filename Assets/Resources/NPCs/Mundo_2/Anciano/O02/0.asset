@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Lo recuerdo todo, todo ya entiendo mi prop\xF3sito, por fin entiendo que
-    hago aqu\xED."
+  text: "Lo recuerdo todo, ya entiendo mi prop\xF3sito, por fin entiendo que hago
+    aqu\xED."
   nextNode: {fileID: 11400000, guid: b882d9b7de0a5c345994226b5a4e578a, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

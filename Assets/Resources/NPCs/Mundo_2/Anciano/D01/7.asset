@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 7
   m_EditorClassIdentifier: 
   text: "Este es el Garbitu, lugar del perd\xF3n, asistimos a las almas en busca
-    de perd\xF3n, te ayudar\xE9."
+    de tal, te ayudar\xE9."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 11400000, guid: 2ad78e03055d67441b8024e10b41066d, type: 2}
   player: 0

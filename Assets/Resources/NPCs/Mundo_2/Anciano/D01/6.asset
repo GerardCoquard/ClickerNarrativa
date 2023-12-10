@@ -17,8 +17,8 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: ac73307b8bec3d04e82fca53c645f193, type: 2}
     x: 1
     y: 0
-  - text: Las herramientas facilitan el trabajo, pero el esfuerzo debe ser el mismo,
-      ayudame.
+  - text: "Las herramientas facilitan el trabajo, pero el esfuerzo debe ser el mismo,
+      ay\xFAdame."
     nextNode: {fileID: 11400000, guid: ac73307b8bec3d04e82fca53c645f193, type: 2}
     x: 0
     y: 1

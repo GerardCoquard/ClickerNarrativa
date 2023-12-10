@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: F 2
   m_EditorClassIdentifier: 
   text: "En lo alto de el monte Rulmin, hay una flor que al crecer cerca de esp\xEDritus
-    provoca que se centren, as\xED trabajaran mas duro."
+    provoca que se centren, as\xED trabajaran m\xE1s duro."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

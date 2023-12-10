@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: F2
   m_EditorClassIdentifier: 
   text: "Mis almas tormentadas ayud\xE1ndote a purgar almas, quien lo habr\xEDa dicho.
-    Te ser\xE1n muy utiles."
+    Te ser\xE1n muy \n\xFAtiles."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

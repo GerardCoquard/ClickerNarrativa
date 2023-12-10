@@ -17,7 +17,8 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 304d64743b6badf4999ad072184f51fd, type: 2}
     x: 0
     y: 0
-  - text: Gracias, creo... Esto es muy importante para mi, tengo que cumplir mi objetivo!.
+  - text: "Gracias, creo... Esto es muy importante para m\xED, tengo que cumplir
+      mi objetivo!."
     nextNode: {fileID: 11400000, guid: 6384e8c831ba55e46bba031ccd4543b2, type: 2}
     x: 0
     y: 0

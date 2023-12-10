@@ -17,7 +17,7 @@ MonoBehaviour:
     nextNode: {fileID: 11400000, guid: 7317f640ddd2801479a7c95c3eda06fd, type: 2}
     x: 1
     y: 0
-  - text: "Sabes si en ese lugar, \xBFhay algo para potenciar mis mejores ayudantes?"
+  - text: "\xBFSabes si en ese lugar hay algo para potenciar mis mejores ayudantes?"
     nextNode: {fileID: 11400000, guid: 7317f640ddd2801479a7c95c3eda06fd, type: 2}
     x: 0
     y: 1

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 6
   m_EditorClassIdentifier: 
   answers:
-  - text: "Pues potencia mis empleados, quiero a los mas trabajadores y a los m\xE1s
-      rapidos."
+  - text: "Pues potencia mis empleados, quiero a los m\xE1s trabajadores y a los
+      m\xE1s r\xE1pidos."
     nextNode: {fileID: 0}
     x: 1
     y: 0
