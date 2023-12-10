@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 12
   m_EditorClassIdentifier: 
-  text: "Te dar\xE9 unos artefactos que te\r\nayudar\xE1n a purificar almas, eliminar\r\nsus
-    pecados o redimirlas. Cuando\r\nconsigas el mill\xF3n, vuelve al portal\r\ny
-    lo abrir\xE9 para ti."
+  text: "Te dar\xE9 unos artefactos que te\r ayudar\xE1n a purificar almas, eliminar\r
+    sus pecados o redimirlas. Cuando\r consigas el mill\xF3n, vuelve al portal\r
+    y lo abrir\xE9 para ti."
   nextNode: {fileID: 0}
   nextQuestion: {fileID: 0}
   player: 0

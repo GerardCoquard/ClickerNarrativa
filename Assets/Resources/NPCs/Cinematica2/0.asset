@@ -12,12 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: 'El objetivo se ha cumplido, has conseguido las 1,000,000,000
-
-    Diuras,
-    las has reunido todas y las has transportado junto
-
-    al portal.'
+  text: "El objetivo se ha cumplido, has conseguido las 1B\r Diuras, las has reunido
+    todas y las has transportado junto\r al portal."
   nextNode: {fileID: 11400000, guid: a442ec8f8e3ca51479bbcdc30b85051a, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

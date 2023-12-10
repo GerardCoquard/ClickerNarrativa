@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 7
   m_EditorClassIdentifier: 
-  text: "Necesitamos a humanos trabajadores\r\ncomo t\xFA para conseguir Eter, la\r\nesencia
-    del universo que permite que\r\nlos esp\xEDritus cooperen con nosotros."
+  text: "Necesitamos a humanos trabajadores\r como t\xFA para conseguir Eter, la\r
+    esencia del universo que permite que\r los esp\xEDritus cooperen con nosotros."
   nextNode: {fileID: 11400000, guid: ba249402e4a313b4d950e48e08b5904f, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

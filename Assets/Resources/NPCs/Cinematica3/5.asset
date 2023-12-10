@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 5
   m_EditorClassIdentifier: 
-  text: "S\xE9 que he cometido errores, pero los\r\nhe redimido. Dijiste que necesitabas\r\nmi
-    ayuda."
+  text: "S\xE9 que he cometido errores, pero los\r he redimido. Dijiste que necesitabas\r
+    mi ayuda."
   nextNode: {fileID: 11400000, guid: 0152bd723c0739445b42b5bdd1a1bd97, type: 2}
   nextQuestion: {fileID: 0}
   player: 1

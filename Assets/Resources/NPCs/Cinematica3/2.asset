@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  text: "Al cruzar el portal, te das cuenta de que has viajado a un\r\nmundo igual
-    que tu valle original o el Garbitu, pero en este\r\ncaso parece inundado y solo
-    las monta\xF1as se alzan por encima\r\ndel mar."
+  text: "Al cruzar el portal, te das cuenta de que has viajado a un\r mundo igual
+    que tu valle original o el Garbitu, pero en este\r caso parece inundado y solo
+    las monta\xF1as se alzan por encima\r del mar."
   nextNode: {fileID: 11400000, guid: 68a65bdcd1e1629438ae8d8600b91f94, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

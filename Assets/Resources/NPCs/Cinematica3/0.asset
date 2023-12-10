@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 0
   m_EditorClassIdentifier: 
-  text: "Lo has conseguido, qui\xE9n lo dir\xEDa.\r\nNunca he visto a un mortal hacer
-    eso.\r\nAbrir\xE9 el portal para ti."
+  text: "Lo has conseguido, qui\xE9n lo dir\xEDa.\r Nunca he visto a un mortal hacer
+    eso.\r Abrir\xE9 el portal para ti."
   nextNode: {fileID: 11400000, guid: cf4bba1e2e82dc642a75998b63b284a0, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: 
-  text: "Divinos, una \xFAltima petici\xF3n si\r\npod\xE9is o\xEDrme; mi familia
-    es humilde."
+  text: "Divinos, una \xFAltima petici\xF3n si\r pod\xE9is o\xEDrme; mi familia es
+    humilde."
   nextNode: {fileID: 11400000, guid: 8a53510bdce3d7d4cab8028b0fc88e4f, type: 2}
   nextQuestion: {fileID: 0}
   player: 1

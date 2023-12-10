@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 7
   m_EditorClassIdentifier: 
-  text: "Suerte, pues si lo logras, te ganar\xE1s\r\nla vida eterna junto a los tuyos."
+  text: "Suerte, pues si lo logras, te ganar\xE1s\r la vida eterna junto a los tuyos."
   nextNode: {fileID: 11400000, guid: 8a693bd0cdae4ab468246b7de6e1cc4b, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

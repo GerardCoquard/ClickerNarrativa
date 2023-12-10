@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 4
   m_EditorClassIdentifier: 
-  text: "\xBFEres un dios? \xBFEl que me ha guiado\r\nhasta aqu\xED? Reconozco tu
+  text: "\xBFEres un dios? \xBFEl que me ha guiado\r hasta aqu\xED? Reconozco tu
     voz."
   nextNode: {fileID: 11400000, guid: 4c64e1c64f4e9ac44bf2d28fa8204bba, type: 2}
   nextQuestion: {fileID: 0}

@@ -13,10 +13,8 @@ MonoBehaviour:
   m_Name: 0
   m_EditorClassIdentifier: 
   text: "Te encuentras en el peregrinaje anual, has subido a la\r\nmonta\xF1a con
-    tu grupo. Han concluido las oraciones y el\r\nritual correspondiente, y os dispon\xE9is
-    a abandonar el lugar.\r\nTe separas un momento del grupo y te arrodillas ante
-    el\r\nantiguo portal."
-  nextNode: {fileID: 11400000, guid: 65c1c4100dec8ab46a63bc9d51a40527, type: 2}
+    tu grupo. "
+  nextNode: {fileID: 11400000, guid: 609597329f29c0e45aa2b1292cc2ddd6, type: 2}
   nextQuestion: {fileID: 0}
   player: 0
   narrador: 1

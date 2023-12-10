@@ -12,11 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 4
   m_EditorClassIdentifier: 
-  text: 'No te asustes, hijo, pues mi
-
-    presencia es para contestar a tus
-
-    plegarias.'
+  text: "No te asustes, hijo, pues mi\r presencia es para contestar a tus\r\nplegarias."
   nextNode: {fileID: 11400000, guid: bf0d5deca9e2b0349abcabf59b32d53e, type: 2}
   nextQuestion: {fileID: 0}
   player: 0

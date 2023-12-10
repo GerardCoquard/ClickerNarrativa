@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  text: "No hemos conseguido descendencia,\r\njuro que trabajar\xE9 duro si eso\r\npromete
-    una vida pr\xF3spera para los\r\nm\xEDos."
+  text: "No hemos conseguido descendencia,\r juro que trabajar\xE9 duro si eso\r
+    promete una vida pr\xF3spera para los\r m\xEDos."
   nextNode: {fileID: 11400000, guid: c95bde3822c3d35488cb5229b1bf186a, type: 2}
   nextQuestion: {fileID: 0}
   player: 1

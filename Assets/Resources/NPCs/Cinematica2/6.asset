@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 6
   m_EditorClassIdentifier: 
-  text: "\xBFQu\xE9 dices? \xBFQu\xE9 he hecho? \xA1Cumpl\xED lo\r\nque los dioses
+  text: "\xBFQu\xE9 dices? \xBFQu\xE9 he hecho? \xA1Cumpl\xED lo\r que los dioses
     me dijeron!"
   nextNode: {fileID: 11400000, guid: ea8a38ec7ee903749bb7aca686b698f8, type: 2}
   nextQuestion: {fileID: 0}

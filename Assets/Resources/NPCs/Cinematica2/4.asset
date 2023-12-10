@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84b7194337396ed4abfec3f358e7dede, type: 3}
   m_Name: 4
   m_EditorClassIdentifier: 
-  text: "Frente a ti, una figura de un hombre bello pero de piel de\r\ncolores extra\xF1os
+  text: "Frente a ti, una figura de un hombre bello pero de piel de\r colores extra\xF1os
     te observa."
   nextNode: {fileID: 11400000, guid: 1c81bd4360c2ba74d903e064b7b585dd, type: 2}
   nextQuestion: {fileID: 0}
